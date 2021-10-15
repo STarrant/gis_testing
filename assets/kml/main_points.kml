@@ -1,0 +1,3238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>main_points.kml</name>
+	<Style id="sh_503-wht-blank_maps1">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps34">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps4">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps36</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_503-wht-blank_maps39">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps24">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps3">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps38</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_503-wht-blank_maps7">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps37">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_503-wht-blank_maps27">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps32</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps34</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_503-wht-blank_maps40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps35</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_503-wht-blank_maps1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_503-wht-blank_maps100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_503-wht-blank_maps13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps28</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_503-wht-blank_maps40">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps33">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="line-F57C00-1000-nodesc-highlight">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff007cf5</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps37">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps19">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps33</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps27</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_503-wht-blank_maps28">
+		<IconStyle>
+			<color>ffff5500</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps18">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps6">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps6">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1899-0288D1-nodesc-highlight">
+		<IconStyle>
+			<color>ffd18802</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_503-wht-blank_maps38">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps170</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_503-wht-blank_maps16">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps170">
+		<IconStyle>
+			<color>ff1427a5</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps22">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps15">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps39">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps29</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_503-wht-blank_maps21">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps10">
+		<IconStyle>
+			<color>ff000055</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps7">
+		<IconStyle>
+			<color>ff000055</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps17">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1899-A52714-nodesc-normal">
+		<IconStyle>
+			<color>ff1427a5</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps18">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-1717-A52714-nodesc-normal">
+		<IconStyle>
+			<color>ff1427a5</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps2">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps8">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_503-wht-blank_maps23">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_503-wht-blank_maps20">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_503-wht-blank_maps70">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps34">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps12">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps30">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps17">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps16">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps5">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps10">
+		<IconStyle>
+			<color>ff000055</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps31">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps12">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps2">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps35">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_503-wht-blank_maps13">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps60">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps29">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line-F57C00-1000-nodesc-normal">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff007cf5</color>
+		</LineStyle>
+	</Style>
+	<Style id="icon-1899-0288D1-nodesc-normal">
+		<IconStyle>
+			<color>ffd18802</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps33</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_503-wht-blank_maps41">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_503-wht-blank_maps22">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps23">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps9">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_503-wht-blank_maps31">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps28</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_503-wht-blank_maps29">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps24">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_503-wht-blank_maps32">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps34">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps29</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps37</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_503-wht-blank_maps17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_503-wht-blank_maps9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps27</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps26</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_503-wht-blank_maps0">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps36</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-1717-A52714-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1717-A52714-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1717-A52714-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_503-wht-blank_maps6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps37</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_503-wht-blank_maps32">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps34</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps35</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_503-wht-blank_maps11">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps32</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_503-wht-blank_maps5">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps35">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_503-wht-blank_maps8">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps30">
+		<IconStyle>
+			<color>ffff5500</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_503-wht-blank_maps3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_503-wht-blank_maps36">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-1899-0288D1-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_503-wht-blank_maps33">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_503-wht-blank_maps25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_503-wht-blank_maps27">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps19">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps1">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps28">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps32">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps39</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_503-wht-blank_maps26">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps29">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="icon-1717-A52714-nodesc-highlight">
+		<IconStyle>
+			<color>ff1427a5</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps9">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1528-A52714-nodesc-highlight">
+		<IconStyle>
+			<color>ff1427a5</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps26">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps4">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps14">
+		<IconStyle>
+			<color>ff1427a5</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps0">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps25">
+		<IconStyle>
+			<color>ff1427a5</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps36">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_503-wht-blank_maps15">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps21">
+		<IconStyle>
+			<color>ff1427a5</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_503-wht-blank_maps25">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="icon-1899-A52714-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-A52714-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-A52714-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_503-wht-blank_maps40">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1528-A52714-nodesc-normal">
+		<IconStyle>
+			<color>ff1427a5</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="line-F57C00-1000-nodesc0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-F57C00-1000-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-F57C00-1000-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_503-wht-blank_maps36">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps35">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps39">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps39</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_503-wht-blank_maps37">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_503-wht-blank_maps20">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps38">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps38">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="icon-1528-A52714-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1528-A52714-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1528-A52714-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_503-wht-blank_maps7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps26</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_503-wht-blank_maps0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps38</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_503-wht-blank_maps13">
+		<IconStyle>
+			<color>ff0000aa</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1899-A52714-nodesc-highlight">
+		<IconStyle>
+			<color>ff1427a5</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps33">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps11">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps3">
+		<IconStyle>
+			<color>ff000055</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps14">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps27">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Main Points</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.25555672282586</longitude>
+				<latitude>54.11308682429492</latitude>
+				<altitude>0</altitude>
+				<heading>0.08131603883235876</heading>
+				<tilt>33.59658507148676</tilt>
+				<range>716.2468349870934</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps60</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.256403393194594,54.11245040219037,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.18775155908652</longitude>
+				<latitude>53.76166739757786</latitude>
+				<altitude>0</altitude>
+				<heading>-0.03543233036034266</heading>
+				<tilt>30.00148557240585</tilt>
+				<range>332.2432744478961</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps7</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.187898998652475,53.76143085958388,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kilsallagh WF</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps10</styleUrl>
+			<Point>
+				<coordinates>-9.608003200000001,54.1169592,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cashla Substation</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps100</styleUrl>
+			<Point>
+				<coordinates>-8.8535276,53.309388,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Disused Railway Athenry to Swinford</name>
+			<visibility>0</visibility>
+			<styleUrl>#line-F57C00-1000-nodesc0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-8.742349900000001,53.3069072,0 -8.742025399999999,53.3075394,0 -8.741771099999999,53.30821370000001,0 -8.7416021,53.3087907,0 -8.741446699999999,53.30967549999999,0 -8.7413984,53.3104768,0 -8.741494899999999,53.3112717,0 -8.7417935,53.31261489999999,0 -8.7420027,53.3133329,0 -8.742118100000001,53.31339369999999,0 -8.743100800000001,53.3157914,0 -8.7447579,53.319711,0 -8.7473828,53.3261582,0 -8.748863399999999,53.329567,0 -8.7510941,53.3349452,0 -8.752006099999999,53.3371361,0 -8.7536855,53.3412057,0 -8.7558586,53.34635219999999,0 -8.7565989,53.3481775,0 -8.7593841,53.3548743,0 -8.7623833,53.36209030000001,0 -8.7632952,53.36433760000001,0 -8.766285699999999,53.3714454,0 -8.7676804,53.3749146,0 -8.768581599999999,53.37684759999999,0 -8.7693166,53.3780806,0 -8.7699818,53.3789766,0 -8.771054700000001,53.38015410000001,0 -8.7720415,53.3811779,0 -8.7729696,53.382157,0 -8.774144,53.3834201,0 -8.7751632,53.38450790000001,0 -8.777376500000001,53.3868635,0 -8.778942900000001,53.3886807,0 -8.7801445,53.3903571,0 -8.781882599999999,53.39260920000001,0 -8.783189200000001,53.39462640000001,0 -8.784009899999999,53.3960882,0 -8.7843532,53.3967567,0 -8.7849079,53.39805270000001,0 -8.7851868,53.39882680000001,0 -8.785390700000001,53.399524,0 -8.7857229,53.4007089,0 -8.785894600000001,53.401662,0 -8.7860019,53.402743,0 -8.786141300000001,53.4041885,0 -8.786109099999999,53.4055029,0 -8.7861306,53.4069164,0 -8.7861765,53.4083035,0 -8.7861799,53.4103053,0 -8.7862387,53.41225799999999,0 -8.786265500000001,53.4133324,0 -8.786418599999999,53.4155253,0 -8.786719,53.4171366,0 -8.787525,53.42033459999999,0 -8.787879,53.42141520000001,0 -8.7881164,53.4221039,0 -8.788516400000001,53.4231107,0 -8.790243,53.4264818,0 -8.790983300000001,53.4277476,0 -8.791981,53.42923709999999,0 -8.793913699999999,53.4316088,0 -8.795630299999999,53.4336414,0 -8.797871000000001,53.4358575,0 -8.7995339,53.4373467,0 -8.802517399999999,53.4399218,0 -8.8043628,53.4415003,0 -8.8062643,53.4432959,0 -8.8069509,53.44415860000001,0 -8.807583899999999,53.4452066,0 -8.8078951,53.44593500000001,0 -8.8085533,53.44801200000001,0 -8.808961,53.4493091,0 -8.8097026,53.45095020000001,0 -8.8106682,53.45250269999999,0 -8.8116231,53.45398489999999,0 -8.812401700000001,53.4552809,0 -8.8133421,53.45684670000001,0 -8.814254,53.4583032,0 -8.8154948,53.4603885,0 -8.816514,53.46199819999999,0 -8.8179088,53.4642784,0 -8.8207021,53.4688262,0 -8.8227192,53.4718916,0 -8.8271915,53.4791404,0 -8.8291013,53.4823838,0 -8.8303029,53.48441399999999,0 -8.831568900000001,53.4864569,0 -8.833619499999999,53.4897502,0 -8.8345529,53.4912694,0 -8.835411199999999,53.49262890000001,0 -8.8360979,53.4937587,0 -8.8389945,53.4984153,0 -8.8403034,53.5003809,0 -8.8413763,53.5018103,0 -8.842513500000001,53.5030611,0 -8.8448943,53.5054055,0 -8.8472332,53.5072942,0 -8.8483812,53.5082003,0 -8.8495077,53.5089723,0 -8.850741599999999,53.5097315,0 -8.8516052,53.51027390000001,0 -8.8527228,53.510935,0 -8.853672299999999,53.5115188,0 -8.854294599999999,53.5119239,0 -8.8554355,53.51264520000001,0 -8.8562958,53.5131597,0 -8.8567626,53.51345,0 -8.8571971,53.5137116,0 -8.8574492,53.5138854,0 -8.858121000000001,53.5142841,0 -8.8596986,53.51523110000001,0 -8.8604711,53.5157351,0 -8.8610183,53.5160573,0 -8.863696900000001,53.5177255,0 -8.866121700000001,53.51907789999999,0 -8.870543899999999,53.52162659999999,0 -8.8738236,53.5234836,0 -8.875799300000001,53.52461480000001,0 -8.8779193,53.52583920000001,0 -8.883794200000001,53.5291648,0 -8.887546800000001,53.5313714,0 -8.8886626,53.532143,0 -8.8898428,53.5330931,0 -8.891216099999999,53.5342282,0 -8.892095899999999,53.5349105,0 -8.8934473,53.5361528,0 -8.894133999999999,53.5369148,0 -8.8945846,53.5374759,0 -8.895367800000001,53.5387001,0 -8.895915,53.5395991,0 -8.896537199999999,53.5405809,0 -8.897062999999999,53.54130140000001,0 -8.897535,53.5418433,0 -8.8989376,53.54323949999999,0 -8.9007079,53.54455279999999,0 -8.902499600000001,53.54568119999999,0 -8.9040231,53.546631,0 -8.905972999999999,53.54783249999999,0 -8.907796899999999,53.5489608,0 -8.909352500000001,53.5499552,0 -8.912034800000001,53.5516061,0 -8.914298499999999,53.55303380000001,0 -8.9171587,53.5547794,0 -8.9198624,53.5564364,0 -8.921321499999999,53.5576728,0 -8.922222700000001,53.5585651,0 -8.9226519,53.55961020000001,0 -8.9228696,53.5605169,0 -8.922848200000001,53.5616894,0 -8.9224727,53.5624669,0 -8.921936199999999,53.5631742,0 -8.921174499999999,53.5642065,0 -8.9205057,53.56515590000001,0 -8.920151600000001,53.56612440000001,0 -8.919980000000001,53.56716299999999,0 -8.920022899999999,53.56794029999999,0 -8.9201838,53.56867310000001,0 -8.920633499999999,53.5696563,0 -8.9211378,53.5704973,0 -8.921652699999999,53.5713065,0 -8.922307200000001,53.5723959,0 -8.922757799999999,53.57319859999999,0 -8.923197699999999,53.57400130000001,0 -8.924068,53.5753275,0 -8.9245722,53.5762576,0 -8.9252374,53.5773596,0 -8.925795300000001,53.57834700000001,0 -8.9264112,53.5793535,0 -8.9271408,53.5805637,0 -8.9278811,53.581793,0 -8.928878900000001,53.58345539999999,0 -8.9292973,53.5842707,0 -8.9298319,53.5854847,0 -8.9300465,53.58655469999999,0 -8.930078699999999,53.5879812,0 -8.929971399999999,53.5892294,0 -8.9296381,53.5906928,0 -8.9290802,53.59177530000001,0 -8.927749800000001,53.59313800000001,0 -8.925561099999999,53.594921,0 -8.923961,53.596321,0 -8.922952499999999,53.5975308,0 -8.9224161,53.5986514,0 -8.922223000000001,53.59953000000001,0 -8.922158599999999,53.6005105,0 -8.9223088,53.6016946,0 -8.922166000000001,53.60244380000001,0 -8.9217583,53.6031313,0 -8.9212112,53.6037616,0 -8.920267000000001,53.6044427,0 -8.919280000000001,53.6051494,0 -8.918292900000001,53.605786,0 -8.9174294,53.6065715,0 -8.9170002,53.6071698,0 -8.916635400000001,53.6079719,0 -8.9165121,53.6086085,0 -8.916463800000001,53.609089,0 -8.916447700000001,53.6095155,0 -8.9165341,53.61001619999999,0 -8.9166951,53.6104617,0 -8.9168667,53.6109582,0 -8.9170169,53.61133050000001,0 -8.917231299999999,53.6118908,0 -8.9175048,53.6125941,0 -8.9177702,53.6132962,0 -8.9181135,53.6142127,0 -8.9184568,53.6151483,0 -8.918725,53.6158929,0 -8.919134,53.6170384,0 -8.9194988,53.61768120000001,0 -8.9198421,53.6182858,0 -8.920260499999999,53.6189094,0 -8.9207708,53.6196733,0 -8.9212107,53.62032240000001,0 -8.9217149,53.6211115,0 -8.922219200000001,53.6218751,0 -8.923034599999999,53.6230841,0 -8.923571000000001,53.6239877,0 -8.924236199999999,53.6251457,0 -8.924950600000001,53.62632210000001,0 -8.925465600000001,53.6272383,0 -8.925937599999999,53.6281482,0 -8.9266132,53.6294278,0 -8.927042399999999,53.6301531,0 -8.927793400000001,53.6315597,0 -8.928034800000001,53.6319955,0 -8.9285868,53.6329832,0 -8.928865800000001,53.6334683,0 -8.929282799999999,53.63425490000001,0 -8.929653,53.634961,0 -8.9303211,53.63615440000001,0 -8.931136499999999,53.6376111,0 -8.9318554,53.6387052,0 -8.9327459,53.6400346,0 -8.9336468,53.6412139,0 -8.9344622,53.6423142,0 -8.9354599,53.64377709999999,0 -8.9364144,53.6450307,0 -8.936913300000001,53.6458353,0 -8.937621399999999,53.6468369,0 -8.9388284,53.6485381,0 -8.939793999999999,53.649899,0 -8.940545,53.6509927,0 -8.9414248,53.6522899,0 -8.942689400000001,53.6540674,0 -8.943783699999999,53.655568,0 -8.9447922,53.6568778,0 -8.9452295,53.6574438,0 -8.94542,53.6576584,0 -8.945707000000001,53.6579572,0 -8.9459564,53.65822740000001,0 -8.9463078,53.6585326,0 -8.946770000000001,53.6589397,0 -8.9472796,53.6593116,0 -8.947741000000001,53.659674,0 -8.948196899999999,53.66000139999999,0 -8.948985499999999,53.6606467,0 -8.9496775,53.6611585,0 -8.950155000000001,53.6615336,0 -8.951653800000001,53.6626594,0 -8.952598,53.66329509999999,0 -8.9533383,53.6639117,0 -8.9535182,53.6640543,0 -8.954458000000001,53.66482250000001,0 -8.9556568,53.6657444,0 -8.956136900000001,53.66609720000001,0 -8.9567645,53.6665628,0 -8.9576326,53.6672274,0 -8.958102,53.6675913,0 -8.9588208,53.6681395,0 -8.9591561,53.668416,0 -8.959620599999999,53.668755,0 -8.9599317,53.66900440000001,0 -8.960261300000001,53.6692743,0 -8.9604611,53.66944910000001,0 -8.9611941,53.6700815,0 -8.961660800000001,53.6705455,0 -8.9620309,53.6709364,0 -8.9625605,53.6714671,0 -8.963011099999999,53.6719533,0 -8.963434899999999,53.6723855,0 -8.963756800000001,53.67273830000001,0 -8.964059900000001,53.6730957,0 -8.9641254,53.6731541,0 -8.9643614,53.6734154,0 -8.9648495,53.67400789999999,0 -8.965203600000001,53.6744591,0 -8.965834900000001,53.6755018,0 -8.9662533,53.6763979,0 -8.966532300000001,53.67723999999999,0 -8.966745899999999,53.6782111,0 -8.966939,53.67939309999999,0 -8.9669261,53.6803113,0 -8.966861700000001,53.6809562,0 -8.9667169,53.6815313,0 -8.9666579,53.6818681,0 -8.966571999999999,53.6821731,0 -8.966277,53.6830278,0 -8.966041000000001,53.683552,0 -8.965821,53.6841493,0 -8.965643999999999,53.68475610000001,0 -8.9653762,53.6853002,0 -8.9652689,53.68563690000001,0 -8.964292,53.6880892,0 -8.9636912,53.6897918,0 -8.963025999999999,53.6914055,0 -8.9625325,53.69285390000001,0 -8.962510999999999,53.69399739999999,0 -8.9624896,53.6946962,0 -8.9625754,53.69521710000001,0 -8.962954999999999,53.6957493,0 -8.9633805,53.6964731,0 -8.963702400000001,53.6968923,0 -8.964520800000001,53.6976518,0 -8.9656152,53.69854110000001,0 -8.966452,53.69909370000001,0 -8.9670743,53.6994621,0 -8.9676644,53.6998305,0 -8.968447599999999,53.7002243,0 -8.9691771,53.70058,0 -8.9697823,53.7008808,0 -8.970586900000001,53.70119210000001,0 -8.971284300000001,53.7014779,0 -8.9718959,53.70173189999999,0 -8.972689799999999,53.7020241,0 -8.973751999999999,53.70239250000001,0 -8.974910700000001,53.70284340000001,0 -8.975715299999999,53.7031356,0 -8.976595100000001,53.70346579999999,0 -8.9774856,53.7038151,0 -8.9786336,53.7042597,0 -8.9798352,53.7047233,0 -8.980618399999999,53.70500269999999,0 -8.9815196,53.7053266,0 -8.9821419,53.7055807,0 -8.984874899999999,53.7065957,0 -8.9870421,53.70744030000001,0 -8.9883135,53.70788169999999,0 -8.9911806,53.70895960000001,0 -8.9921408,53.7093215,0 -8.9938985,53.71002639999999,0 -8.9952933,53.71075029999999,0 -8.996098,53.7113726,0 -8.996980300000001,53.7121482,0 -8.9976991,53.71292919999999,0 -8.998814899999999,53.71455470000001,0 -8.999329899999999,53.715215,0 -8.999891099999999,53.71594200000001,0 -9.000314899999999,53.7165261,0 -9.0006153,53.716942,0 -9.0008889,53.7172404,0 -9.001060600000001,53.7176277,0 -9.0011303,53.71804040000001,0 -9.001131600000001,53.7186276,0 -9.001142400000001,53.7190784,0 -9.001389100000001,53.7196022,0 -9.001555400000001,53.7198752,0 -9.0025125,53.72041279999999,0 -9.0033064,53.7209525,0 -9.004282699999999,53.7218031,0 -9.0051518,53.7226475,0 -9.005645299999999,53.723149,0 -9.0063963,53.7237203,0 -9.007104399999999,53.7243741,0 -9.007906699999999,53.72491520000001,0 -9.007574099999999,53.72504539999999,0 -9.0079818,53.7253723,0 -9.0085432,53.7258383,0 -9.009619600000001,53.7267195,0 -9.010209700000001,53.7272971,0 -9.010553,53.7277097,0 -9.0109791,53.72879750000001,0 -9.010764500000001,53.73005429999999,0 -9.010528499999999,53.731641,0 -9.0101637,53.73305,0 -9.0097346,53.735157,0 -9.0094771,53.736604,0 -9.0092196,53.7376828,0 -9.0090901,53.73972779999999,0 -9.0092403,53.7411618,0 -9.009476299999999,53.7427101,0 -9.0097767,53.7442456,0 -9.0100771,53.74611099999999,0 -9.010356099999999,53.7472784,0 -9.009862500000001,53.7486995,0 -9.0090901,53.7499556,0 -9.0079052,53.7512155,0 -9.005974,53.75240819999999,0 -9.004772300000001,53.7533597,0 -9.0044006,53.7536712,0 -9.0041297,53.7540249,0 -9.0038722,53.75432619999999,0 -9.003657,53.7546281,0 -9.0034773,53.7549374,0 -9.0033405,53.7551895,0 -9.0032386,53.7553893,0 -9.003193,53.7555035,0 -9.003129899999999,53.7556835,0 -9.003018600000001,53.7560252,0 -9.002959600000001,53.7562488,0 -9.0028793,53.7566557,0 -9.002852499999999,53.7572551,0 -9.002884699999999,53.7576896,0 -9.002933000000001,53.7581209,0 -9.0031678,53.7589485,0 -9.003596999999999,53.7596716,0 -9.0040798,53.7605722,0 -9.0044124,53.7614031,0 -9.0051483,53.7626262,0 -9.0057598,53.7637805,0 -9.0063821,53.7648967,0 -9.0068327,53.76582260000001,0 -9.007902100000001,53.76774000000001,0 -9.0086531,53.7692619,0 -9.0094577,53.77079009999999,0 -9.0098386,53.7717254,0 -9.010074599999999,53.772537,0 -9.010334800000001,53.7743223,0 -9.010442100000001,53.7751814,0 -9.010736,53.7776349,0 -9.0108487,53.77887749999999,0 -9.011291999999999,53.7817025,0 -9.011463600000001,53.7838198,0 -9.011506600000001,53.7850241,0 -9.0113349,53.786089,0 -9.010607200000001,53.7875001,0 -9.0096416,53.7889072,0 -9.0090623,53.790327,0 -9.0088477,53.7913664,0 -9.008783299999999,53.7926593,0 -9.009040799999999,53.7940789,0 -9.0093841,53.7950421,0 -9.009877700000001,53.7964363,0 -9.011430499999999,53.7985193,0 -9.0128038,53.8009018,0 -9.013855299999999,53.8027266,0 -9.015512299999999,53.8055584,0 -9.017486399999999,53.8088021,0 -9.018773899999999,53.8111334,0 -9.0192459,53.8128311,0 -9.019460499999999,53.81503550000001,0 -9.0193318,53.8173411,0 -9.0185008,53.8200636,0 -9.0169558,53.8227235,0 -9.014853,53.8251047,0 -9.012320900000001,53.8275364,0 -9.0093598,53.8306012,0 -9.004682000000001,53.83531179999999,0 -9.001549199999999,53.83840129999999,0 -8.9965765,53.8434773,0 -8.994623799999999,53.8455914,0 -8.9938728,53.8470093,0 -8.993351199999999,53.8496737,0 -8.9928148,53.8518128,0 -8.992728899999999,53.8531418,0 -8.9927504,53.85440750000001,0 -8.9935128,53.8559519,0 -8.9939205,53.8572934,0 -8.994972000000001,53.8592676,0 -8.995916100000001,53.8606217,0 -8.9969032,53.86173530000001,0 -8.999451000000001,53.8639158,0 -9.001811399999999,53.8659656,0 -9.003527999999999,53.8684709,0 -9.004000100000001,53.8711278,0 -9.003742600000001,53.8724435,0 -9.002786,53.8750321,0 -9.0018633,53.8764996,0 -9.0008119,53.877638,0 -8.999528700000001,53.8785056,0 -8.998756200000001,53.87894829999999,0 -8.996835799999999,53.8797642,0 -8.995044099999999,53.8805421,0 -8.992812499999999,53.88152240000001,0 -8.9909993,53.8823698,0 -8.989615300000001,53.8830718,0 -8.988763499999999,53.8836367,0 -8.987776500000001,53.8844398,0 -8.987261500000001,53.8850658,0 -8.9869074,53.8858563,0 -8.9866929,53.8865455,0 -8.9864888,53.8874715,0 -8.9867463,53.8883631,0 -8.987121800000001,53.8892104,0 -8.987593800000001,53.8900008,0 -8.9883127,53.890829,0 -8.989537800000001,53.89159599999999,0 -8.9905142,53.8921208,0 -8.9918982,53.8927657,0 -8.993314399999999,53.8934485,0 -8.994698400000001,53.894144,0 -8.995900000000001,53.8948837,0 -8.9965969,53.8955215,0 -8.9970958,53.8961411,0 -8.997374799999999,53.8965646,0 -8.997626,53.8971815,0 -8.9978084,53.8978137,0 -8.9978298,53.8984143,0 -8.997760100000001,53.8989137,0 -8.9975767,53.8996175,0 -8.9970617,53.90047090000001,0 -8.9964502,53.90122939999999,0 -8.995881499999999,53.90219019999999,0 -8.995473799999999,53.9029614,0 -8.995214199999999,53.90376299999999,0 -8.9951927,53.9050398,0 -8.994956699999999,53.9063798,0 -8.994141300000001,53.9075553,0 -8.9928109,53.90861710000001,0 -8.9916524,53.9092185,0 -8.9904829,53.9096293,0 -8.989399300000001,53.90998960000001,0 -8.9883694,53.9104825,0 -8.9874896,53.9110702,0 -8.986813700000001,53.9116959,0 -8.9861553,53.9125516,0 -8.9858978,53.9131772,0 -8.9858227,53.9140682,0 -8.9858335,53.9148266,0 -8.986140799999999,53.9154957,0 -8.9864949,53.9160012,0 -8.987095699999999,53.916671,0 -8.987610699999999,53.9172397,0 -8.9880291,53.91809270000001,0 -8.988222199999999,53.9187815,0 -8.988317199999999,53.9193371,0 -8.9884299,53.91993420000001,0 -8.988376199999999,53.92056920000001,0 -8.9883279,53.92095139999999,0 -8.9880832,53.9217131,0 -8.9878632,53.9221016,0 -8.9875896,53.92253440000001,0 -8.987240999999999,53.9229956,0 -8.9870103,53.9232831,0 -8.9862868,53.9240012,0 -8.985557200000001,53.9246014,0 -8.984655999999999,53.9251131,0 -8.983711899999999,53.9255806,0 -8.982756999999999,53.9260165,0 -8.9816489,53.9265805,0 -8.9805975,53.92709849999999,0 -8.979803499999999,53.927446,0 -8.979181199999999,53.9277618,0 -8.9780762,53.9282735,0 -8.976992600000001,53.9287978,0 -8.975780200000001,53.92934109999999,0 -8.974900399999999,53.9298401,0 -8.9738919,53.93037710000001,0 -8.9729261,53.9311275,0 -8.972437899999999,53.93164549999999,0 -8.9720248,53.9321382,0 -8.971713400000001,53.9325944,0 -8.971375500000001,53.9331313,0 -8.9709839,53.9335987,0 -8.9706996,53.9339934,0 -8.970377600000001,53.9344743,0 -8.970117500000001,53.93482019999999,0 -8.969670600000001,53.9354056,0 -8.969321900000001,53.9358382,0 -8.968951799999999,53.93632770000001,0 -8.9685375,53.9368444,0 -8.9682157,53.9372234,0 -8.9678992,53.93751699999999,0 -8.967480699999999,53.9378581,0 -8.966874499999999,53.9382275,0 -8.965703299999999,53.9388275,0 -8.9650596,53.9391085,0 -8.964115400000001,53.93935800000001,0 -8.963139099999999,53.9396169,0 -8.9622378,53.9398222,0 -8.9611728,53.9400498,0 -8.960191099999999,53.9403497,0 -8.959424,53.9406529,0 -8.9587588,53.9409275,0 -8.958233099999999,53.9412402,0 -8.957235300000001,53.9419601,0 -8.955632,53.9433655,0 -8.9545162,53.944439,0 -8.9537867,53.9451589,0 -8.9525636,53.94629549999999,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps19</styleUrl>
+			<Point>
+				<coordinates>-8.886048199999999,53.3434845,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps14</styleUrl>
+			<Point>
+				<coordinates>-8.890411,53.4944477,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps5</styleUrl>
+			<Point>
+				<coordinates>-8.890751699999999,53.5533161,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps26</styleUrl>
+			<Point>
+				<coordinates>-8.898631,53.6133104,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge Railway</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps27</styleUrl>
+			<Point>
+				<coordinates>-9.3442501,53.8207014,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge Railway</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps33</styleUrl>
+			<Point>
+				<coordinates>-9.1910761,53.8273986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge Railway</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps33</styleUrl>
+			<Point>
+				<coordinates>-9.131713700000001,53.7953781,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge Railway</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps33</styleUrl>
+			<Point>
+				<coordinates>-8.9857482,53.7184654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge Railway</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps33</styleUrl>
+			<Point>
+				<coordinates>-8.9603106,53.7190609,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Road-Defunct Rail Crossing</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1717-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.926346199999999,53.6289375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.941751099999999,53.374332,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.962665899999999,53.3944324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.0175073,53.53268430000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps30</styleUrl>
+			<Point>
+				<coordinates>-8.955973470580938,53.54114108962257,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.009593799999999,53.6574483,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps31</styleUrl>
+			<Point>
+				<coordinates>-9.003046299999999,53.6845855,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.067535299999999,53.7032413,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.087437700000001,53.7257445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.133814299999999,53.80816,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.1869785,53.8724078,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps2</styleUrl>
+			<Point>
+				<coordinates>-9.2063816,53.8864482,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps2</styleUrl>
+			<Point>
+				<coordinates>-9.203851991882244,53.89969915256706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.202442700000001,53.9557915,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.2527478,53.9878673,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.259743,53.9877412,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.2669099,53.99081940000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.302602500000001,54.0246575,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.321278899999999,54.0030604,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.3212359,53.9989488,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.3227809,53.9866116,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.323723299999999,53.9824217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.3243104,53.9715116,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.328172800000001,53.96042870000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.3158858,53.94358209999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.3123668,53.9344373,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.3054276,53.91113839999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.3051791,53.9099701,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps15</styleUrl>
+			<Point>
+				<coordinates>-9.576610199999999,54.11848850000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.565538,54.114382,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.5148197,54.0814309,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.483477600000001,54.0598006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.4555129,54.0413396,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.4350741,54.0083182,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.412475799999999,54.00020850000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.398716800000001,53.9878713,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.388814200000001,53.9766859,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.386638599999999,53.9546432,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.3940214,53.9377521,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.3990452,53.9311949,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.4043641,53.876518,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.3869826,53.8630363,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.3875665,53.8431337,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.255596300000001,53.8110733,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1528-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.260339200000001,53.8094461,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.2662517,53.7926822,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps23</styleUrl>
+			<Point>
+				<coordinates>-9.2671314,53.7916175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps38</styleUrl>
+			<Point>
+				<coordinates>-9.21217,53.7079926,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps38</styleUrl>
+			<Point>
+				<coordinates>-9.2040367,53.6890208,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps38</styleUrl>
+			<Point>
+				<coordinates>-9.203232,53.68714009999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<styleUrl>#msn_503-wht-blank_maps</styleUrl>
+			<Point>
+				<coordinates>-9.029057137903926,53.56476446869534,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<styleUrl>#msn_503-wht-blank_maps</styleUrl>
+			<Point>
+				<coordinates>-9.097662119021376,53.62534264065037,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps21</styleUrl>
+			<Point>
+				<coordinates>-9.1203456,53.6622326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps37</styleUrl>
+			<Point>
+				<coordinates>-9.077396999999999,53.5704175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps37</styleUrl>
+			<Point>
+				<coordinates>-9.084238900000001,53.52512839999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps12</styleUrl>
+			<Point>
+				<coordinates>-9.0857838,53.5186862,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.9037448,53.49295169999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge Old Rail Line</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps22</styleUrl>
+			<Point>
+				<coordinates>-8.8742573,53.5237321,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Culvert (Probably)</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps28</styleUrl>
+			<Point>
+				<coordinates>-8.8640215,53.5874971,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail HDD Required N Road</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps6</styleUrl>
+			<Point>
+				<coordinates>-8.953469800000001,53.6640141,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River Major HDD</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps1</styleUrl>
+			<Point>
+				<coordinates>-8.9729201,53.6900522,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail HDD N Road</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.0092243,53.7381416,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps34</styleUrl>
+			<Point>
+				<coordinates>-9.215429071730833,53.80198107431324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps36</styleUrl>
+			<Point>
+				<coordinates>-9.1511204,53.8938075,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps36</styleUrl>
+			<Point>
+				<coordinates>-9.130298,53.9215417,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps36</styleUrl>
+			<Point>
+				<coordinates>-9.1165559,53.9296127,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps4</styleUrl>
+			<Point>
+				<coordinates>-9.1053882,53.9357248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River Major</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps1</styleUrl>
+			<Point>
+				<coordinates>-9.10309,53.93819239999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River Major</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps1</styleUrl>
+			<Point>
+				<coordinates>-9.1158196,53.9814162,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps36</styleUrl>
+			<Point>
+				<coordinates>-9.124299199999999,53.9964901,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps4</styleUrl>
+			<Point>
+				<coordinates>-9.1397487,53.9943962,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps36</styleUrl>
+			<Point>
+				<coordinates>-9.1278782,54.0118207,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps36</styleUrl>
+			<Point>
+				<coordinates>-9.1558239,54.0689226,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps36</styleUrl>
+			<Point>
+				<coordinates>-9.1639775,54.10195349999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps36</styleUrl>
+			<Point>
+				<coordinates>-9.1888255,54.11838179999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps36</styleUrl>
+			<Point>
+				<coordinates>-9.2123002,54.1191364,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps4</styleUrl>
+			<Point>
+				<coordinates>-9.236454,54.1084726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps4</styleUrl>
+			<Point>
+				<coordinates>-9.235269199999999,54.0977798,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River Major</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps1</styleUrl>
+			<Point>
+				<coordinates>-9.319297799999999,54.1000799,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps4</styleUrl>
+			<Point>
+				<coordinates>-9.434344100000001,54.1032126,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Culvert (Probably)</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps3</styleUrl>
+			<Point>
+				<coordinates>-9.5020805,54.1073058,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps40</styleUrl>
+			<Point>
+				<coordinates>-9.53133930763263,54.09672984576056,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps18</styleUrl>
+			<Point>
+				<coordinates>-9.372787199999999,54.0777837,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps29</styleUrl>
+			<Point>
+				<coordinates>-9.337333599999999,54.0469498,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps29</styleUrl>
+			<Point>
+				<coordinates>-9.330390383011739,54.04097879498261,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.1002247,53.9854368,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.0809003,53.9880678,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.020064100000001,53.96974629999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River Major</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps1</styleUrl>
+			<Point>
+				<coordinates>-8.9939605,53.9586407,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps4</styleUrl>
+			<Point>
+				<coordinates>-9.234196900000001,54.117732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps4</styleUrl>
+			<Point>
+				<coordinates>-9.086067699999999,53.9174557,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps4</styleUrl>
+			<Point>
+				<coordinates>-9.088376202839466,53.90713484461795,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps8</styleUrl>
+			<Point>
+				<coordinates>-9.101863181447019,53.89628978491861,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps24</styleUrl>
+			<Point>
+				<coordinates>-9.0998398,53.8745411,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps24</styleUrl>
+			<Point>
+				<coordinates>-9.094730800000001,53.853372,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps24</styleUrl>
+			<Point>
+				<coordinates>-9.086854900000001,53.8313624,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps24</styleUrl>
+			<Point>
+				<coordinates>-8.965017700000001,53.73344729999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge Old Rail over Road</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps13</styleUrl>
+			<Point>
+				<coordinates>-8.766709000000001,53.3724734,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge Old Rail over Road</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.7842479,53.3965407,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail HDD under N Road</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.788005500000001,53.4217727,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.7912801,53.4281795,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge Small</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.791486600000001,53.4285015,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge over Road</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.800049,53.43778699999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old rail bridge small</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.809335799999999,53.4501892,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail bridge over road</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.8135148,53.457131,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail bridge over river wooden</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.8228028,53.4722032,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail HDD under R Road</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.857241999999999,53.5137446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge River Wooden</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.8600361,53.5154482,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge River Wooden</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.886583999999999,53.53078180000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge  River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.8882516,53.5318637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge Small</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.896897900000001,53.5411142,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge Small</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps11</styleUrl>
+			<Point>
+				<coordinates>-8.905308860499391,53.54726805500479,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.9202929,53.5657036,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge Small</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.920112899999999,53.5662275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge Small</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.920127900000001,53.6045305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge River Small</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.9172159,53.61185689999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge Small</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.918529100000001,53.61536459999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge Small</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.9202063,53.6188755,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge Small</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.92489,53.6262529,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge Small</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.936814800000001,53.6456602,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge Small</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.965812,53.6754599,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail N Road HDD Required</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps0</styleUrl>
+			<Point>
+				<coordinates>-8.966938000000001,53.6798441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge River Small</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.965183700000001,53.6858177,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.965450199999999,53.6984304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail HDD Required N Road</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.982556799999999,53.7057325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail R Road Town Crossing</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.000702799999999,53.7170327,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Active Rail Line HDD</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps25</styleUrl>
+			<Point>
+				<coordinates>-9.007743,53.72498419999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Regional Road Crossing</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.004792800000001,53.76200070000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge Small</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.006510799999999,53.7651743,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail R Road Crossing</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps11</styleUrl>
+			<Point>
+				<coordinates>-9.0089001,53.76973490000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge R Road</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.011444900000001,53.78556709999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge Small</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.009041,53.79044129999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail R Road Crossing</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.008738299999999,53.7925663,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail R Road Crossing</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.0152965,53.8051129,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.019429499999999,53.8163455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge River Small</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.019254200000001,53.8174869,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge River Large Truss?</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.0172595,53.8221072,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge River Small</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-9.006948700000001,53.8329919,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail R Road Crossing Urban</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.993911600000001,53.846998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail R Road Crossing Urban</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.9934748,53.8489641,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail L Road Crossing</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.993588000000001,53.856198,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Old Rail Bridge River Large</name>
+			<visibility>0</visibility>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>-8.9953425,53.90345769999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps11</styleUrl>
+			<Point>
+				<coordinates>-8.9051625332424,53.54621098141436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps17</styleUrl>
+			<Point>
+				<coordinates>-8.9023089,53.56488660000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps17</styleUrl>
+			<Point>
+				<coordinates>-8.897528100000001,53.578049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps17</styleUrl>
+			<Point>
+				<coordinates>-8.8896531,53.5818135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_503-wht-blank_maps16</styleUrl>
+			<Point>
+				<coordinates>-9.0859337,53.6934557,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<Camera>
+				<longitude>-9.039822579209163</longitude>
+				<latitude>53.61359930215087</latitude>
+				<altitude>306.1295933407301</altitude>
+				<heading>0.2328029017193624</heading>
+				<tilt>29.99998638104913</tilt>
+				<roll>0.5135599469638833</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_503-wht-blank_maps30</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.039363080701238,53.61488844667733,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<Camera>
+				<longitude>-9.096609262152867</longitude>
+				<latitude>53.69838641231834</latitude>
+				<altitude>192.8221697962733</altitude>
+				<heading>0.1871685648411648</heading>
+				<tilt>30.00000072389534</tilt>
+				<roll>0.5136254639789992</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_503-wht-blank_maps7</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.096563300595497,53.69916117009754,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.115913836964292</longitude>
+				<latitude>53.70768064113621</latitude>
+				<altitude>0</altitude>
+				<heading>0.2797357521337902</heading>
+				<tilt>10.33815942219338</tilt>
+				<range>556.4342826949562</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps7</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.117811820526578,53.7083437789706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.573565899299384</longitude>
+				<latitude>54.11756780484003</latitude>
+				<altitude>0</altitude>
+				<heading>-0.003221279472739269</heading>
+				<tilt>30.00321694181271</tilt>
+				<range>716.216542180254</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps11</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.573561920988775,54.11734563042696,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.245851404615195</longitude>
+				<latitude>53.87410261443742</latitude>
+				<altitude>0</altitude>
+				<heading>-0.08232410133583903</heading>
+				<tilt>30.00328593742764</tilt>
+				<range>731.5914958283022</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps34</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.245321723274486,53.87335833436341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rail Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.214027489221829</longitude>
+				<latitude>53.83140541539403</latitude>
+				<altitude>0</altitude>
+				<heading>-0.05798295614580287</heading>
+				<tilt>28.93999913033514</tilt>
+				<range>576.6852084140152</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps32</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.213907775995578,53.83052292082242,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.357669124239715</longitude>
+				<latitude>53.88702241505829</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1725599523009351</heading>
+				<tilt>30.00365082858076</tilt>
+				<range>813.7727223779283</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps39</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.359188849945992,53.886570481198,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.391830260500653</longitude>
+				<latitude>53.89907530326055</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2001591524047319</heading>
+				<tilt>30.00207000638914</tilt>
+				<range>460.8764448015937</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps39</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.391857303121535,53.89853842102216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.412548992452377</longitude>
+				<latitude>53.91441957971657</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2168999814554342</heading>
+				<tilt>30.00237884298316</tilt>
+				<range>529.6314029540199</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.41179024908836,53.91320939729712,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.394480056919377</longitude>
+				<latitude>53.82074932693231</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1556148639341856</heading>
+				<tilt>25.65155327018466</tilt>
+				<range>887.5510476133765</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps35</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.396516101356836,53.82131793008359,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.411100303752207</longitude>
+				<latitude>54.00023545813892</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2056643631486693</heading>
+				<tilt>26.80417312102092</tilt>
+				<range>663.4736285868744</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps40</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.407665593887751,53.99906658111734,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.411100303752207</longitude>
+				<latitude>54.00023545813892</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2056643631486693</heading>
+				<tilt>26.80417312102092</tilt>
+				<range>663.4736285868744</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps40</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.409601657731006,53.99958638260419,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.411197115863784</longitude>
+				<latitude>54.00121992844974</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2057426671943773</heading>
+				<tilt>26.80416046054924</tilt>
+				<range>660.3482455430451</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps40</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.413555605319308,54.00019012454902,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.495762265247297</longitude>
+				<latitude>54.06611342521867</latitude>
+				<altitude>0</altitude>
+				<heading>-0.284255296262184</heading>
+				<tilt>30.00331027481173</tilt>
+				<range>737.0091674499183</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps40</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.496197953369887,54.06501144929695,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.519651909596096</longitude>
+				<latitude>54.0867112093049</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3036009378059553</heading>
+				<tilt>30.00351872677854</tilt>
+				<range>783.4119566441021</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps40</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.519342802904983,54.08551220443103,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.36636529050759</longitude>
+				<latitude>53.82041070269437</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1689789792791108</heading>
+				<tilt>30.00149770828785</tilt>
+				<range>333.4083841944708</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps35</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.366886246456579,53.82044937521473,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.382523217255136</longitude>
+				<latitude>53.81948208848562</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1820232192284618</heading>
+				<tilt>30.00234258041682</tilt>
+				<range>522.2942603088402</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps35</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.38213243181128,53.81971450187658,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.397185267004449</longitude>
+				<latitude>53.81685585613501</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1889150116791279</heading>
+				<tilt>29.33802481339746</tilt>
+				<range>382.894076600514</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps35</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.397241103715084,53.8167464496462,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.926701335242903</longitude>
+				<latitude>53.69324918529964</latitude>
+				<altitude>0</altitude>
+				<heading>0.520898165692627</heading>
+				<tilt>26.47853340617339</tilt>
+				<range>347.4072815346377</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps26</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.92674500040606,53.69296268270904,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge Rail Old</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.904033243495935</longitude>
+				<latitude>53.54733683544776</latitude>
+				<altitude>0</altitude>
+				<heading>0.540272197139574</heading>
+				<tilt>30.00206729262915</tilt>
+				<range>460.2909157605694</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps11</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.90354035699707,53.54629959924252,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.288955572123324</longitude>
+				<latitude>54.11476192360867</latitude>
+				<altitude>0</altitude>
+				<heading>0.1235326190369739</heading>
+				<tilt>29.8374170389276</tilt>
+				<range>530.3572090366622</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.288724019126489,54.11480677576042,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bridge River</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.263883779570309</longitude>
+				<latitude>53.87143467547406</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2244821131486019</heading>
+				<tilt>28.79607364303485</tilt>
+				<range>503.6941225266958</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps31</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.263334598266226,53.87092516165104,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
