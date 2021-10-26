@@ -10,10 +10,10 @@
 		<SimpleField type="string" name="EntityHandle"></SimpleField>
 		<SimpleField type="string" name="Text"></SimpleField>
 	</Schema>
-	<Style id="style">
+	<Style id="style18">
 		<LineStyle>
-			<color>9bffff00</color>
-			<width>5</width>
+			<color>ffffff00</color>
+			<width>8</width>
 		</LineStyle>
 		<PolyStyle>
 			<fill>0</fill>
@@ -21,8 +21,8 @@
 	</Style>
 	<Style id="style0">
 		<LineStyle>
-			<color>9bffff00</color>
-			<width>5</width>
+			<color>ffffff00</color>
+			<width>8</width>
 		</LineStyle>
 		<PolyStyle>
 			<fill>0</fill>
@@ -31,7 +31,7 @@
 	<StyleMap id="stylemap_id1">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#style</styleUrl>
+			<styleUrl>#style18</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -40,6 +40,7 @@
 	</StyleMap>
 	<Placemark>
 		<name>Option 2 - Bigger</name>
+		<open>1</open>
 		<styleUrl>#stylemap_id1</styleUrl>
 		<ExtendedData>
 			<SchemaData schemaUrl="#entities">
