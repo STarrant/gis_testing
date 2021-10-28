@@ -4,30 +4,16 @@
 	<name>05814_ugc_j.kml</name>
 	<Style id="sn_ylw-pushpin12">
 		<LineStyle>
+			<color>ffffaa55</color>
 			<width>5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin6">
-		<LineStyle>
-			<color>80ffffff</color>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin11">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin6</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin9</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="line-F57C00-1000-nodesc-highlight0">
+	<Style id="line-F57C00-1000-nodesc-normal0">
 		<BalloonStyle>
 			<text><![CDATA[<h3>$[name]</h3>]]></text>
 		</BalloonStyle>
 		<LineStyle>
+			<color>ffffaa55</color>
 			<width>5</width>
 		</LineStyle>
 	</Style>
@@ -43,15 +29,8 @@
 	</StyleMap>
 	<Style id="sh_ylw-pushpin8">
 		<LineStyle>
+			<color>ffffaa55</color>
 			<width>7.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="line-F57C00-1000-nodesc-normal0">
-		<BalloonStyle>
-			<text><![CDATA[<h3>$[name]</h3>]]></text>
-		</BalloonStyle>
-		<LineStyle>
-			<width>5</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="line-F57C00-1000-nodesc0">
@@ -64,10 +43,39 @@
 			<styleUrl>#line-F57C00-1000-nodesc-highlight0</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_ylw-pushpin9">
+	<Style id="sn_ylw-pushpin">
+		<BalloonStyle>
+		</BalloonStyle>
 		<LineStyle>
-			<color>80ffffff</color>
+			<color>80ffaa55</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>80ffaa55</color>
 			<width>7.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line-F57C00-1000-nodesc-highlight0">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>5</width>
 		</LineStyle>
 	</Style>
 	<Folder>
@@ -85,7 +93,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Cashla to Athenry Disused Rail</name>
-			<styleUrl>#msn_ylw-pushpin11</styleUrl>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
