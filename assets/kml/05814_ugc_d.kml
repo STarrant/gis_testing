@@ -2,28 +2,28 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>05814_ugc_d.kml</name>
-	<StyleMap id="msn_ylw-pushpin5">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin6</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin00</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Style id="sh_ylw-pushpin00">
 		<LineStyle>
 			<color>800055ff</color>
 			<width>7.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin6">
+	<Style id="sn_ylw-pushpin60">
 		<LineStyle>
 			<color>800055ff</color>
 			<width>5</width>
 		</LineStyle>
 	</Style>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin00</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Placemark>
 		<name>GW - Option 13 - Modified</name>
 		<visibility>0</visibility>

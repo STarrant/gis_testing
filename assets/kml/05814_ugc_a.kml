@@ -2,23 +2,27 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>05814_ugc_a.kml</name>
-	<StyleMap id="msn_ylw-pushpin10">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin5</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin6</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ylw-pushpin5">
+	<Style id="sn_ylw-pushpin">
+		<BalloonStyle>
+		</BalloonStyle>
 		<LineStyle>
 			<color>ff000000</color>
 			<width>5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin6">
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<BalloonStyle>
+		</BalloonStyle>
 		<LineStyle>
 			<color>ff000000</color>
 			<width>7.5</width>
@@ -26,8 +30,7 @@
 	</Style>
 	<Placemark>
 		<name>Option A (GD)</name>
-		<visibility>0</visibility>
-		<styleUrl>#msn_ylw-pushpin10</styleUrl>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
 			<coordinates>

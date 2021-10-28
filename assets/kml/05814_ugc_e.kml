@@ -2,13 +2,13 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>05814_ugc_e.kml</name>
-	<Style id="sh_ylw-pushpin30">
+	<Style id="sn_ylw-pushpin00">
 		<LineStyle>
 			<color>8000dfdf</color>
 			<width>6.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin00">
+	<Style id="sh_ylw-pushpin300">
 		<LineStyle>
 			<color>8000dfdf</color>
 			<width>6.5</width>
@@ -21,11 +21,12 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin30</styleUrl>
+			<styleUrl>#sh_ylw-pushpin300</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Placemark>
 		<name>GW - Option 15 - Modified</name>
+		<visibility>0</visibility>
 		<open>1</open>
 		<styleUrl>#msn_ylw-pushpin8</styleUrl>
 		<LineString>
