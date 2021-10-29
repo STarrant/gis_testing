@@ -2,10 +2,19 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>OHL_A-Rev_2.kml</name>
+	<Style id="Line_inline1_ff0000_03">
+		<LineStyle>
+			<color>ffff55ff</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
 	<Style id="Line_inline1_ff0000_031">
 		<LineStyle>
 			<color>ffff55ff</color>
-			<width>2</width>
+			<width>5</width>
 		</LineStyle>
 		<PolyStyle>
 			<fill>0</fill>
@@ -21,18 +30,8 @@
 			<styleUrl>#Line_inline1_ff0000_03</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="Line_inline1_ff0000_03">
-		<LineStyle>
-			<color>ffff55ff</color>
-			<width>2</width>
-		</LineStyle>
-		<PolyStyle>
-			<fill>0</fill>
-		</PolyStyle>
-	</Style>
 	<Placemark>
 		<name>OHL_A-Rev_2</name>
-		<visibility>0</visibility>
 		<description>Note: Previously called Cashla to Kilsallagh OHL Nr1 Rev1</description>
 		<styleUrl>#Line_inline1_ff0000_030</styleUrl>
 		<LineString>

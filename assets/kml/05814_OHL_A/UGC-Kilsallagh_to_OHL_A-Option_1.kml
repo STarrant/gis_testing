@@ -2,16 +2,10 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>UGC-Kilsallagh_to_OHL_A-Option_1.kml</name>
-	<Style id="sh_ylw-pushpin6">
-		<LineStyle>
-			<color>ff00e2e2</color>
-			<width>7.5</width>
-		</LineStyle>
-	</Style>
 	<Style id="sn_ylw-pushpin7">
 		<LineStyle>
 			<color>ff00e2e2</color>
-			<width>5</width>
+			<width>2</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin01">
@@ -24,9 +18,14 @@
 			<styleUrl>#sh_ylw-pushpin6</styleUrl>
 		</Pair>
 	</StyleMap>
+	<Style id="sh_ylw-pushpin6">
+		<LineStyle>
+			<color>ff00e2e2</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
 	<Placemark>
 		<name>UGC-Kilsallagh_to_OHL_A-Option_1</name>
-		<visibility>0</visibility>
 		<open>1</open>
 		<styleUrl>#msn_ylw-pushpin01</styleUrl>
 		<LineString>

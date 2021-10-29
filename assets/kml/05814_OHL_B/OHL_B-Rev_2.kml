@@ -15,7 +15,7 @@
 	<Style id="Line__Shapes__Cashla_220kV_to_Kilsal_0dd5fc_030">
 		<LineStyle>
 			<color>ffffaa00</color>
-			<width>2.4</width>
+			<width>5</width>
 		</LineStyle>
 		<PolyStyle>
 			<fill>0</fill>
@@ -24,7 +24,7 @@
 	<Style id="Line__Shapes__Cashla_220kV_to_Kilsal_0dd5fc_03">
 		<LineStyle>
 			<color>ffffaa00</color>
-			<width>2.4</width>
+			<width>5</width>
 		</LineStyle>
 		<PolyStyle>
 			<fill>0</fill>
@@ -32,7 +32,6 @@
 	</Style>
 	<Placemark>
 		<name>OHL_B-Rev_2</name>
-		<visibility>0</visibility>
 		<description>Note: Previously called Cashla to Kilsallagh OHL Nr2 Rev 1</description>
 		<styleUrl>#Line__Shapes__Cashla_220kV_to_Kilsal_0dd5fc_031</styleUrl>
 		<LineString>
