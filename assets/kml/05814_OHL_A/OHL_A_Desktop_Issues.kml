@@ -1,0 +1,4626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>OHL_A_Desktop_Issues.kml</name>
+	<Style id="s_ylw-pushpin_hl29">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin49</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl25">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl16">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl70">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin62">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin61</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl62</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin47">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin160</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl14">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin42</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl27</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl55">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin73">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin29">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl90">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin70">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin69</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin65">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin64</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl65</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin27">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin77">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl02">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin28">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl9">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl21">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin61">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl61</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl67">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl51</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin49">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl28</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl20">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl59">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl80">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin59">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin58</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl59</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl69">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin24">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl45">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin54">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl35">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin35</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin33">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin55">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin65">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin72">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin71</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl72</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl34">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin70">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl66">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl53">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin78">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin77</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl78</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl37</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl27">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl73">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl36</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin72">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl43">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin64">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin39">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl12">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl51">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl17">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl48">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin71">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl71</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin73">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin72</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl73</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl26</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin57">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin74">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin73</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl74</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin17">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin38</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin42">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin68">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin67</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl68</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin16">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin67">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin66</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl67</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin77">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin76</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl77</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl37">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin55">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin55</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl55</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin46</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl58">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin63">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin62</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl63</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin76">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin35">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin39</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl35</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl49">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin48">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl02</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl77">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl61">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin62">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin61">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl48</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin32">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin31">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl39">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin68">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl79">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl52">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl23">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin02">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin47</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin71">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl54">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin58">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin36">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin21">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin43</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl38</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl43</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin63">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin44">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin42">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin52">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin52</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl52</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl62">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl72">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl26">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl47</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin53">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl42">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin79">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin19">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin51">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin46">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin45</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl44</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin33">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin36</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin37</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl90</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin66">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin65</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl66</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin69">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin68</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl69</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin45">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin27</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin38">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin78">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin44</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl39</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin45">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin69">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin66">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin37">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin75">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin74</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl75</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin29</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl34</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin30">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin56">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin80">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin79</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl80</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl24">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl15">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin37">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin58">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin57</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl58</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl38">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin34">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin27">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin33</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl31">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl74">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin64">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin63</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl64</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin74">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl28">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl78">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin25">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin54">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin54</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl54</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl63">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin41">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin47">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl57">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl47">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl44">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin160">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl36">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin43">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin79">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin78</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl79</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin46">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin32">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl18">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl22">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl41">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin29">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin60">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin53">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin53</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl53</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin22">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin67">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl68">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl49</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin57">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin56</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl57</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin38">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin28</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin43">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin35">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl64">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl75">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin52">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl65">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl71">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl29</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin36">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin51</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl45</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin39">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin32</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl19">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin23">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl30">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin49">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>OHL_A_Desktop_Issues</name>
+		<visibility>0</visibility>
+		<open>1</open>
+		<Placemark>
+			<name>Possible Monument</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-9.214788792368205</longitude>
+				<latitude>53.7883734384519</latitude>
+				<altitude>661.8291924235072</altitude>
+				<heading>-9.003830846118934</heading>
+				<tilt>29.99999905960796</tilt>
+				<roll>-3.046721458869579</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.215577403834933,53.79123340643583,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Possible Monument</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-9.176178589824042</longitude>
+				<latitude>53.75332629231693</latitude>
+				<altitude>661.8291924206748</altitude>
+				<heading>-8.972683886663091</heading>
+				<tilt>29.99999905960793</tilt>
+				<roll>-3.046721458868671</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.177868613046298,53.75648833920322,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Too close to primary school</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-8.976995225499904</longitude>
+				<latitude>53.57179822003849</latitude>
+				<altitude>467.2966019905267</altitude>
+				<heading>-9.360059088017788</heading>
+				<tilt>25.55946760528547</tilt>
+				<roll>-3.534073800208646</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.97814570238658,53.57302196480047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trees</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-9.10609812147432</longitude>
+				<latitude>53.68881322444769</latitude>
+				<altitude>185.6011272333191</altitude>
+				<heading>-8.916189474651887</heading>
+				<tilt>29.99999711635974</tilt>
+				<roll>-3.048066532657648</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.106865445827506,53.68960308830344,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Too close to house</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.06394175448081</longitude>
+				<latitude>53.64279668151879</latitude>
+				<altitude>0</altitude>
+				<heading>-15.44156209361287</heading>
+				<tilt>35.63273926735089</tilt>
+				<range>259.2762699267503</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin49</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.063570564594992,53.64301743792914,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Existing line crossing</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-8.882375730064187</longitude>
+				<latitude>53.47277792743476</latitude>
+				<altitude>251.5198501429638</altitude>
+				<heading>-10.94260535625969</heading>
+				<tilt>29.99993573375425</tilt>
+				<roll>-2.969494349448296</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.883227017074431,53.47325116582862,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Too close to farm structure</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-8.893570046858244</longitude>
+				<latitude>53.4845304172398</latitude>
+				<altitude>251.5198501415476</altitude>
+				<heading>-10.95160143973906</heading>
+				<tilt>29.99993573375427</tilt>
+				<roll>-2.969494349447833</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.89395004483357,53.48566370185554,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>too close to farm structure</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-8.899129912947217</longitude>
+				<latitude>53.49028861397104</latitude>
+				<altitude>266.6303989185583</altitude>
+				<heading>-10.96524935558173</heading>
+				<tilt>29.91169167385771</tilt>
+				<roll>-2.977421890464635</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.900062883080695,53.49135772796636,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>River crossing</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-8.900136631213817</longitude>
+				<latitude>53.49289683138922</latitude>
+				<altitude>369.5689268158789</altitude>
+				<heading>-10.95687921435627</heading>
+				<tilt>29.99993576966802</tilt>
+				<roll>-2.96935219525658</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.90177764750378,53.49406743742846,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Too close to farm structures</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-8.919372434338007</longitude>
+				<latitude>53.51633416110723</latitude>
+				<altitude>448.3743254123011</altitude>
+				<heading>-9.041276850491052</heading>
+				<tilt>27.60396910025337</tilt>
+				<roll>-3.289344290187761</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.919658964644007,53.51817375608063,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>River crossing</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-8.952008768644044</longitude>
+				<latitude>53.54224260606703</latitude>
+				<altitude>526.9300036679909</altitude>
+				<heading>-8.792795945187983</heading>
+				<tilt>29.99449869967524</tilt>
+				<roll>-3.04889542793203</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.95196596188123,53.5442248498635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Road crossing</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-8.963054092123924</longitude>
+				<latitude>53.55037992554214</latitude>
+				<altitude>813.054669513063</altitude>
+				<heading>-8.801680352371227</heading>
+				<tilt>29.99449870872022</tilt>
+				<roll>-3.048795999871841</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.962697705136694,53.55254167624595,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Too close to farm structures</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-9.106246422102945</longitude>
+				<latitude>53.68914640563588</latitude>
+				<altitude>185.6011272304866</altitude>
+				<heading>-8.916308977116223</heading>
+				<tilt>29.99999711635968</tilt>
+				<roll>-3.048066532657057</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.106638774902246,53.68982647576658,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Trees</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.900986967991907</longitude>
+				<latitude>53.50073088413935</latitude>
+				<altitude>0</altitude>
+				<heading>-34.08763600472858</heading>
+				<tilt>30.97762764828174</tilt>
+				<range>421.5043848743213</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin47</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.902317159117414,53.50063255945786,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Too close to unknown structure</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.859867972558181</longitude>
+				<latitude>53.42051311887271</latitude>
+				<altitude>0</altitude>
+				<heading>37.93940056912562</heading>
+				<tilt>45.3306351678466</tilt>
+				<range>98.92060202700449</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.859584970385905,53.4205464448608,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Trees</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2015-04-08</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-9.224520695734375</longitude>
+				<latitude>53.80400566872061</latitude>
+				<altitude>0</altitude>
+				<heading>18.66439390488614</heading>
+				<tilt>47.06553195889381</tilt>
+				<range>306.5822970186742</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin12</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.22541639985486,53.80481617835232,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Unknown structure</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.216197613829154</longitude>
+				<latitude>53.7906526686929</latitude>
+				<altitude>0</altitude>
+				<heading>-26.30204023865985</heading>
+				<tilt>36.04998329820619</tilt>
+				<range>344.1029452454782</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin31</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.216003440053306,53.79057601860783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Existing cable crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2018-06-24</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-8.852108837090439</longitude>
+				<latitude>53.42488732035774</latitude>
+				<altitude>0</altitude>
+				<heading>27.24086866945244</heading>
+				<tilt>30.00206782654252</tilt>
+				<range>460.3326507329576</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin02</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.852959344165246,53.42449676780112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Trees</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.986249204398703</longitude>
+				<latitude>53.58102915712973</latitude>
+				<altitude>0</altitude>
+				<heading>-26.14490344464354</heading>
+				<tilt>30.00113230012944</tilt>
+				<range>252.1180227189438</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.987063113254365,53.581213238509,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Trees</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.209655345246958</longitude>
+				<latitude>53.7828210207511</latitude>
+				<altitude>0</altitude>
+				<heading>-37.05116857712608</heading>
+				<tilt>33.8431313984847</tilt>
+				<range>177.9680723185142</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.209589814070512,53.78301244481699,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Too close to tree line?</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.899383556565486</longitude>
+				<latitude>53.49831084852749</latitude>
+				<altitude>0</altitude>
+				<heading>24.0709484905964</heading>
+				<tilt>30.93378759742701</tilt>
+				<range>362.6092578313235</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin41</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.898998841953567,53.49847127226059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Too close to house</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-9.021833873026836</longitude>
+				<latitude>53.61239686647922</latitude>
+				<altitude>221.6448748701463</altitude>
+				<heading>-8.849048187597221</heading>
+				<tilt>29.99320798455732</tilt>
+				<roll>-3.049745040009038</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.022445379125003,53.61377524334409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.899016147136853</longitude>
+				<latitude>53.49013270566416</latitude>
+				<altitude>0</altitude>
+				<heading>-21.84389702406935</heading>
+				<tilt>26.37807932060956</tilt>
+				<range>276.3409492396727</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin17</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.899155226813098,53.49024517092774,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.918394517598021</longitude>
+				<latitude>53.51642679483492</latitude>
+				<altitude>0</altitude>
+				<heading>-12.5667681385712</heading>
+				<tilt>29.00000351571112</tilt>
+				<range>155.2027940974685</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin8</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.918452455671,53.51669777483819,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.899959617510389</longitude>
+				<latitude>53.49094980477965</latitude>
+				<altitude>0</altitude>
+				<heading>-21.84462663279319</heading>
+				<tilt>30.00060466639633</tilt>
+				<range>134.5611584557499</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.899976161829544,53.49092691986943,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.879527756573788</longitude>
+				<latitude>53.470694276878</latitude>
+				<altitude>0</altitude>
+				<heading>-26.82081377183659</heading>
+				<tilt>32.94655020817008</tilt>
+				<range>96.06699097648452</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin34</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.880007583578017,53.47054960209611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Too close to farm buildings</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.215004589130633</longitude>
+				<latitude>53.79137727309995</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0831546814875247</heading>
+				<tilt>30.00265037784692</tilt>
+				<range>590.0770090326266</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.217406072540623,53.79088508524169,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.94793499291705</longitude>
+				<latitude>53.54089338757976</latitude>
+				<altitude>0</altitude>
+				<heading>-31.14829708165294</heading>
+				<tilt>17.15774649229849</tilt>
+				<range>215.0911570766803</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.948255403479772,53.54080537799858,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.926674128440883</longitude>
+				<latitude>53.52510323055742</latitude>
+				<altitude>0</altitude>
+				<heading>-31.13070950045918</heading>
+				<tilt>28.4584522585401</tilt>
+				<range>158.1550013838477</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin42</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.927162465683585,53.52508143435481,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-8.989750627924304</longitude>
+				<latitude>53.58565551614008</latitude>
+				<altitude>467.2966019876941</altitude>
+				<heading>-9.370322745914862</heading>
+				<tilt>25.55946760528537</tilt>
+				<roll>-3.53407380020782</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.991867755596727,53.58710466191989,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-9.022292257307296</longitude>
+				<latitude>53.61294261176425</latitude>
+				<altitude>221.6448748687301</altitude>
+				<heading>-8.849417202370894</heading>
+				<tilt>29.99320798455732</tilt>
+				<roll>-3.049745040009161</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.022027487656704,53.61489704680948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.995177902262716</longitude>
+				<latitude>53.59094316358407</latitude>
+				<altitude>0</altitude>
+				<heading>-23.25926729817051</heading>
+				<tilt>26.15417037653927</tilt>
+				<range>194.0088742030198</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin11</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.995729103446253,53.59124938825686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Monument</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-8.999298539478881</longitude>
+				<latitude>53.59515865195675</latitude>
+				<altitude>467.2966019919429</altitude>
+				<heading>-9.378006785749882</heading>
+				<tilt>25.55946760528549</tilt>
+				<roll>-3.534073800209044</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.001546422470605,53.59626714407094,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.876203360508828</longitude>
+				<latitude>53.46731276546134</latitude>
+				<altitude>0</altitude>
+				<heading>-26.81815114166553</heading>
+				<tilt>36.71715426446725</tilt>
+				<range>170.5687740212616</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin29</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.876891952552832,53.46730963310192,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-8.976549070208311</longitude>
+				<latitude>53.57195450000171</latitude>
+				<altitude>467.2966019905267</altitude>
+				<heading>-9.359700100615978</heading>
+				<tilt>25.55946760528549</tilt>
+				<roll>-3.534073800209466</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.978839706746939,53.57243224281708,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.856669231200271</longitude>
+				<latitude>53.4237237612818</latitude>
+				<altitude>0</altitude>
+				<heading>37.94172185579744</heading>
+				<tilt>30.47908944370991</tilt>
+				<range>428.8758221645689</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin39</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.855189421994927,53.42343189442505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-8.852566540622163</longitude>
+				<latitude>53.44741042527529</latitude>
+				<altitude>301.657235644751</altitude>
+				<heading>-10.91865111618881</heading>
+				<tilt>29.99999978849421</tilt>
+				<roll>-2.969549128449116</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.853033726170091,53.44832345296362,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<Camera>
+				<longitude>-8.994929789710174</longitude>
+				<latitude>53.59103858970895</latitude>
+				<altitude>187.0852434382545</altitude>
+				<heading>-18.5477949004467</heading>
+				<tilt>33.35973380095955</tilt>
+				<roll>3.300512024326966</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin35</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.996340728879833,53.59196951985651,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.096477886520784</longitude>
+				<latitude>53.67849229201081</latitude>
+				<altitude>0</altitude>
+				<heading>-42.33322154125002</heading>
+				<tilt>43.41636285916866</tilt>
+				<range>175.0893804340672</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin50</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.096073158738115,53.67852329179235,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.04852543669076</longitude>
+				<latitude>53.63210598845922</latitude>
+				<altitude>0</altitude>
+				<heading>-47.39937095427356</heading>
+				<tilt>31.95284027945167</tilt>
+				<range>204.9532476132795</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin30</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.048570418521461,53.63238621963471,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.054779051362853</longitude>
+				<latitude>53.63622540191693</latitude>
+				<altitude>0</altitude>
+				<heading>-47.40429738751995</heading>
+				<tilt>31.82235713280648</tilt>
+				<range>167.301000959994</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin36</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.05475513226547,53.6363916088283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.063899405155093</longitude>
+				<latitude>53.64318311762815</latitude>
+				<altitude>0</altitude>
+				<heading>-15.44701929359331</heading>
+				<tilt>32.48502926974542</tilt>
+				<range>190.1655605334334</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin32</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.063745007846824,53.64354687455603,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.094587690879296</longitude>
+				<latitude>53.67781078064322</latitude>
+				<altitude>0</altitude>
+				<heading>-59.35832406270575</heading>
+				<tilt>35.04358636747767</tilt>
+				<range>164.2652558647954</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin43</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.094948178272551,53.67782054085298,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.107200680535369</longitude>
+				<latitude>53.68934446114626</latitude>
+				<altitude>0</altitude>
+				<heading>-34.45679811002642</heading>
+				<tilt>34.08894865042476</tilt>
+				<range>175.3103755989615</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin10</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.107279949162741,53.68934050563575,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.120245245855038</longitude>
+				<latitude>53.70248529299882</latitude>
+				<altitude>0</altitude>
+				<heading>-29.81615736114787</heading>
+				<tilt>42.67584719741654</tilt>
+				<range>163.6175163883906</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin15</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.120691377132959,53.7028819842267,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.10615655839625</longitude>
+				<latitude>53.68826556250066</latitude>
+				<altitude>0</altitude>
+				<heading>-37.51594729958612</heading>
+				<tilt>39.59481056274629</tilt>
+				<range>160.4646774675861</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.106174396576654,53.68827405004195,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 River Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.859810368606501</longitude>
+				<latitude>53.45157743947909</latitude>
+				<altitude>0</altitude>
+				<heading>-31.19053069678173</heading>
+				<tilt>66.74653397859851</tilt>
+				<range>122.7675427395924</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin33</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.860109182168186,53.45149267622644,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 River crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.099876992842505</longitude>
+				<latitude>53.68172529940038</latitude>
+				<altitude>0</altitude>
+				<heading>-40.09385196846229</heading>
+				<tilt>53.79743568629219</tilt>
+				<range>177.4728506575318</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin37</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.099485844595321,53.68182189220484,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.046934208779506</longitude>
+				<latitude>53.63102067321278</latitude>
+				<altitude>0</altitude>
+				<heading>-47.40450481926694</heading>
+				<tilt>41.75283082050498</tilt>
+				<range>261.5229368289696</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin45</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.046863458015567,53.63128068967936,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.078057145619177</longitude>
+				<latitude>53.66985612611516</latitude>
+				<altitude>0</altitude>
+				<heading>-56.27058948587147</heading>
+				<tilt>38.0549730606635</tilt>
+				<range>138.2695687814528</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin19</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.078325008910554,53.67003960014966,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.846618909596602</longitude>
+				<latitude>53.42876783879473</latitude>
+				<altitude>0</altitude>
+				<heading>28.96532578479578</heading>
+				<tilt>30.00099745946075</tilt>
+				<range>222.0132406515805</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin46</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.847327366807857,53.42914683569644,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.846433972453262</longitude>
+				<latitude>53.43861675124944</latitude>
+				<altitude>0</altitude>
+				<heading>16.15752819599136</heading>
+				<tilt>28.06129174848963</tilt>
+				<range>394.0840297337238</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.84760256716342,53.43877625677791,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.16124238006895</longitude>
+				<latitude>53.73941051434523</latitude>
+				<altitude>0</altitude>
+				<heading>-44.62037632954125</heading>
+				<tilt>30.17209415308693</tilt>
+				<range>186.9560258729801</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin18</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.161667938351393,53.73954888382391,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>N Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.900262501596574</longitude>
+				<latitude>53.49260638163875</latitude>
+				<altitude>0</altitude>
+				<heading>-21.84488058633459</heading>
+				<tilt>30.00115138139893</tilt>
+				<range>256.2681604222963</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.901894991072682,53.49255150292318,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road crossing</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-8.854905094728526</longitude>
+				<latitude>53.44813490295132</latitude>
+				<altitude>301.6572356433348</altitude>
+				<heading>-10.92052975965029</heading>
+				<tilt>29.99999978849404</tilt>
+				<roll>-2.969549128446502</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.856065924940012,53.45016363419722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.920480165136844</longitude>
+				<latitude>53.52030462257892</latitude>
+				<altitude>0</altitude>
+				<heading>-36.11407389926392</heading>
+				<tilt>45.34613248002752</tilt>
+				<range>340.659679119514</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin26</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.920702776314236,53.52022670297269,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Local access road crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.875798334884518</longitude>
+				<latitude>53.46644180825622</latitude>
+				<altitude>0</altitude>
+				<heading>-10.30379332035979</heading>
+				<tilt>45.80349134767498</tilt>
+				<range>253.6717397672116</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.876267080720496,53.46665048691866,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.918731250982416</longitude>
+				<latitude>53.51819132834509</latitude>
+				<altitude>0</altitude>
+				<heading>-14.74582802676504</heading>
+				<tilt>30.00110968478977</tilt>
+				<range>246.9695866710483</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin38</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.919153948365123,53.51823008936108,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.922946338875789</longitude>
+				<latitude>53.52232630037314</latitude>
+				<altitude>0</altitude>
+				<heading>-31.12771187225713</heading>
+				<tilt>27.08254491162283</tilt>
+				<range>180.4107798586605</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin24</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.92326211232303,53.52216003612903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.930807580968137</longitude>
+				<latitude>53.5279241347988</latitude>
+				<altitude>0</altitude>
+				<heading>-31.13405271418468</heading>
+				<tilt>27.15404165929333</tilt>
+				<range>146.736910887631</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.931157474145468,53.52808331502789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Local Road crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.84588544224081</longitude>
+				<latitude>53.43568776006639</latitude>
+				<altitude>0</altitude>
+				<heading>16.15796876443122</heading>
+				<tilt>28.06131019374606</tilt>
+				<range>398.4489426903534</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.846819793918218,53.43589021185905,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.927548963927636</longitude>
+				<latitude>53.52566596637136</latitude>
+				<altitude>0</altitude>
+				<heading>-31.13141280051006</heading>
+				<tilt>28.60667029023154</tilt>
+				<range>146.4423129080167</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin27</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.927826311281878,53.52558451176564,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.175065790910905</longitude>
+				<latitude>53.75014238228025</latitude>
+				<altitude>0</altitude>
+				<heading>-21.17925916932568</heading>
+				<tilt>39.72035593136901</tilt>
+				<range>151.2889985617588</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin48</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.175082214970656,53.75019291563753,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.181033864184391</longitude>
+				<latitude>53.75982695323574</latitude>
+				<altitude>0</altitude>
+				<heading>-12.98176474194335</heading>
+				<tilt>30.00106448670996</tilt>
+				<range>235.9417979790194</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin16</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.180644759968823,53.76020871227861,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.931946150459424</longitude>
+				<latitude>53.52873913089196</latitude>
+				<altitude>0</altitude>
+				<heading>-31.13496829659274</heading>
+				<tilt>27.15403427646629</tilt>
+				<range>144.9361095283797</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin23</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.932112339433878,53.52879709659685,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.971261055262197</longitude>
+				<latitude>53.56339835489699</latitude>
+				<altitude>0</altitude>
+				<heading>-21.79356095696375</heading>
+				<tilt>29.09158700945709</tilt>
+				<range>259.0985674626601</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin28</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.971593711343877,53.56331537659552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.966062887347094</longitude>
+				<latitude>53.55554689994292</latitude>
+				<altitude>0</altitude>
+				<heading>-31.16265842702562</heading>
+				<tilt>30.00132678593262</tilt>
+				<range>295.0327843170012</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin40</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.966598557433313,53.55545904044398,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.044228161044185</longitude>
+				<latitude>53.63030728430853</latitude>
+				<altitude>0</altitude>
+				<heading>-47.40365268691725</heading>
+				<tilt>44.45090173182211</tilt>
+				<range>174.7719291174397</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin13</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.044469304771741,53.63020434881268,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.948726885936409</longitude>
+				<latitude>53.54162109756114</latitude>
+				<altitude>0</altitude>
+				<heading>-31.14893409589814</heading>
+				<tilt>17.15789903139427</tilt>
+				<range>272.6193855932672</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin25</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.949271788808963,53.54156582694164,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-8.976549070208311</longitude>
+				<latitude>53.57195450000171</latitude>
+				<altitude>467.2966019905267</altitude>
+				<heading>-9.359700100615978</heading>
+				<tilt>25.55946760528549</tilt>
+				<roll>-3.534073800209466</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.97909352958181,53.57306639020587,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-8.988077617082562</longitude>
+				<latitude>53.58405992538781</latitude>
+				<altitude>467.2966019919429</altitude>
+				<heading>-9.368976432022002</heading>
+				<tilt>25.5594676052855</tilt>
+				<roll>-3.534073800209373</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.989715915818154,53.58483145600919,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-9.021833873026836</longitude>
+				<latitude>53.61239686647922</latitude>
+				<altitude>221.6448748701463</altitude>
+				<heading>-8.849048187597221</heading>
+				<tilt>29.99320798455732</tilt>
+				<roll>-3.049745040009038</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin22</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.021246014949668,53.61428851010071,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.99377084113058</longitude>
+				<latitude>53.58930248798497</latitude>
+				<altitude>0</altitude>
+				<heading>-23.25812853063593</heading>
+				<tilt>26.39250871837291</tilt>
+				<range>167.5632323064379</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin52</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.994083324319202,53.58932711176784,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<Camera>
+				<longitude>-8.994929789710174</longitude>
+				<latitude>53.59103858970895</latitude>
+				<altitude>187.0852434382545</altitude>
+				<heading>-18.5477949004467</heading>
+				<tilt>33.35973380095955</tilt>
+				<roll>3.300512024326966</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin53</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.996746496184858,53.59240150987663,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<Camera>
+				<longitude>-8.998756695233128</longitude>
+				<latitude>53.59515390783737</latitude>
+				<altitude>447.2855132243067</altitude>
+				<heading>-18.53374665831019</heading>
+				<tilt>33.19712582582052</tilt>
+				<roll>3.315370243538697</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin54</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.001245329452148,53.59723640755865,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<Camera>
+				<longitude>-9.009692085137786</longitude>
+				<latitude>53.60359766181382</latitude>
+				<altitude>199.1736233793385</altitude>
+				<heading>-32.76406464488775</heading>
+				<tilt>35.60417712266793</tilt>
+				<roll>3.117421794024154</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin55</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.011359112288167,53.60489941311155,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.050497385185034</longitude>
+				<latitude>53.63320823044074</latitude>
+				<altitude>0</altitude>
+				<heading>-47.40095883889639</heading>
+				<tilt>31.95285577693137</tilt>
+				<range>208.2131627112115</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin57</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.050649296662952,53.63373444997275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.072716010052329</longitude>
+				<latitude>53.6589293922359</latitude>
+				<altitude>0</altitude>
+				<heading>-23.66902315836309</heading>
+				<tilt>24.83713480121797</tilt>
+				<range>227.8295600734146</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin58</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.07294767046788,53.65922355163536,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.107200680535369</longitude>
+				<latitude>53.68934446114626</latitude>
+				<altitude>0</altitude>
+				<heading>-34.45679811002642</heading>
+				<tilt>34.08894865042476</tilt>
+				<range>175.3103755989615</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin59</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.107410867681626,53.68947126814859,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>R Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.094106030148495</longitude>
+				<latitude>53.6773160456601</latitude>
+				<altitude>0</altitude>
+				<heading>-47.28465587460877</heading>
+				<tilt>37.27681212090324</tilt>
+				<range>213.8175700328175</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.094409192173879,53.67753660882629,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.076826177502777</longitude>
+				<latitude>53.66946565776249</latitude>
+				<altitude>0</altitude>
+				<heading>-56.26959779873227</heading>
+				<tilt>38.05496844642123</tilt>
+				<range>137.4362811547707</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin61</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.077179103522665,53.66958463234253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.132175676093926</longitude>
+				<latitude>53.7170231175885</latitude>
+				<altitude>0</altitude>
+				<heading>-24.84250385755259</heading>
+				<tilt>41.39251315429532</tilt>
+				<range>272.0086209757264</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin62</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.132135391171648,53.71729498492487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.133823182624596</longitude>
+				<latitude>53.7194367133378</latitude>
+				<altitude>0</altitude>
+				<heading>-24.83639724537947</heading>
+				<tilt>34.62045720482265</tilt>
+				<range>184.0706802812345</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin63</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.133835342669377,53.71959532868355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.150764673020925</longitude>
+				<latitude>53.73273285862244</latitude>
+				<altitude>0</altitude>
+				<heading>-44.61906982266245</heading>
+				<tilt>35.30108608514274</tilt>
+				<range>307.2285510180113</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin64</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.150779110157782,53.73324746284034,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.11883655486816</longitude>
+				<latitude>53.70061028364108</latitude>
+				<altitude>0</altitude>
+				<heading>-29.81502202928505</heading>
+				<tilt>42.67584827146636</tilt>
+				<range>163.7938947733688</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin65</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.11864839662835,53.70077029134928,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.173786353262457</longitude>
+				<latitude>53.74765797463274</latitude>
+				<altitude>0</altitude>
+				<heading>-30.66186479307722</heading>
+				<tilt>41.27758700549082</tilt>
+				<range>163.954044263457</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin66</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.173609200630255,53.7479223995573,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.158193031228615</longitude>
+				<latitude>53.73763407597104</latitude>
+				<altitude>0</altitude>
+				<heading>-44.61791756317805</heading>
+				<tilt>30.1720957854604</tilt>
+				<range>187.3175642452969</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin67</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.158337270721855,53.73762187815896,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.183382574867453</longitude>
+				<latitude>53.76832550989251</latitude>
+				<altitude>0</altitude>
+				<heading>-12.9836591768733</heading>
+				<tilt>30.00218173274041</tilt>
+				<range>484.6950664162829</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin68</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.183701027424059,53.76805642574814,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.196970101926413</longitude>
+				<latitude>53.77700838058354</latitude>
+				<altitude>0</altitude>
+				<heading>-24.03686357036129</heading>
+				<tilt>41.20611040314259</tilt>
+				<range>448.0128358656523</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin69</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.197427888910653,53.77670953674271,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.225895814835233</longitude>
+				<latitude>53.79985534642336</latitude>
+				<altitude>0</altitude>
+				<heading>8.84364599510543</heading>
+				<tilt>58.99423389534672</tilt>
+				<range>204.9144661946182</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin70</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.226115214880036,53.7998072478279,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.217521577767176</longitude>
+				<latitude>53.7917222097777</latitude>
+				<altitude>0</altitude>
+				<heading>-53.26924234668043</heading>
+				<tilt>32.26289124661428</tilt>
+				<range>185.6539018199437</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin71</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.217915150971324,53.79147577489745,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.204226274521856</longitude>
+				<latitude>53.78070512840524</latitude>
+				<altitude>0</altitude>
+				<heading>-58.23305304530263</heading>
+				<tilt>43.53417198506502</tilt>
+				<range>324.255092633624</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin72</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.204008236639115,53.78057705486087,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Too close to farm structure</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.922946339048082</longitude>
+				<latitude>53.52232630014105</latitude>
+				<altitude>0</altitude>
+				<heading>-31.12771187280188</heading>
+				<tilt>27.08254491147713</tilt>
+				<range>180.410777302986</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin73</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.923408072679601,53.52226751312859,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Too close to farm building</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.175714722066067</longitude>
+				<latitude>53.75091994217448</latitude>
+				<altitude>0</altitude>
+				<heading>-21.17978250038513</heading>
+				<tilt>39.72036168892148</tilt>
+				<range>152.2919723491833</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin74</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.175674464936417,53.75110215889633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Too close to farm structure</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.995177902262716</longitude>
+				<latitude>53.59094316358407</latitude>
+				<altitude>0</altitude>
+				<heading>-23.25926729817051</heading>
+				<tilt>26.15417037653927</tilt>
+				<range>194.0088742030198</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin75</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.995332553576972,53.59079041822961,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Too close to house</name>
+			<visibility>0</visibility>
+			<Camera>
+				<gx:TimeStamp><when>2019-09-13T11:58:11Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-9.020348974343712</longitude>
+				<latitude>53.61188937016891</latitude>
+				<altitude>467.2966019919429</altitude>
+				<heading>-9.394950978021559</heading>
+				<tilt>25.55946760528543</tilt>
+				<roll>-3.53407380020903</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin80</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.02011317833762,53.61423448063913,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Too close to house</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.84588544224081</longitude>
+				<latitude>53.43568776006639</latitude>
+				<altitude>0</altitude>
+				<heading>16.15796876443122</heading>
+				<tilt>28.06131019374606</tilt>
+				<range>398.4489426903534</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin78</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.846847889417916,53.43613655035544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Too close to house</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.882717927398856</longitude>
+				<latitude>53.47435177968352</latitude>
+				<altitude>0</altitude>
+				<heading>-21.83073000642942</heading>
+				<tilt>26.89411695803249</tilt>
+				<range>260.3948029059896</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin79</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.883838538097159,53.47453570787131,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Existing line crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.042465239664157</longitude>
+				<latitude>53.62942933717238</latitude>
+				<altitude>0</altitude>
+				<heading>-41.93873087410647</heading>
+				<tilt>45.89814914474725</tilt>
+				<range>149.2335949105676</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin21</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.042645458223303,53.62945691730594,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Small river crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.858853467684792</longitude>
+				<latitude>53.417684703562</latitude>
+				<altitude>0</altitude>
+				<heading>-0.7247667413421839</heading>
+				<tilt>24.20027467639123</tilt>
+				<range>1059.392665572801</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.862342794387798,53.41695085582568,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>local access road crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.84905079294278</longitude>
+				<latitude>53.42505782127957</latitude>
+				<altitude>0</altitude>
+				<heading>-3.265915107252471</heading>
+				<tilt>17.93898403328285</tilt>
+				<range>646.0216915131047</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.851345125564078,53.42445071812782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Local access road crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.84905079294278</longitude>
+				<latitude>53.42505782127957</latitude>
+				<altitude>0</altitude>
+				<heading>-3.265915107252471</heading>
+				<tilt>17.93898403328285</tilt>
+				<range>646.0216915131047</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.850758001113791,53.42453861807988,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Too close to house</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.846241173988458</longitude>
+				<latitude>53.42622145495105</latitude>
+				<altitude>0</altitude>
+				<heading>-3.263658725914078</heading>
+				<tilt>17.93898403328285</tilt>
+				<range>646.0216915137175</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.850193650163678,53.42581185776487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Too close to house</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.846241173988458</longitude>
+				<latitude>53.42622145495105</latitude>
+				<altitude>0</altitude>
+				<heading>-3.263658725914078</heading>
+				<tilt>17.93898403328285</tilt>
+				<range>646.0216915137175</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.848287216243291,53.42568097450512,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Local access road crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.863841452763957</longitude>
+				<latitude>53.45559524196747</latitude>
+				<altitude>0</altitude>
+				<heading>-3.281577599996018</heading>
+				<tilt>21.06293005409314</tilt>
+				<range>491.890211341407</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.865557441376952,53.45554218574377,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Local access road crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.873869437015708</longitude>
+				<latitude>53.4662103338197</latitude>
+				<altitude>0</altitude>
+				<heading>-3.28963444150185</heading>
+				<tilt>21.06293005409318</tilt>
+				<range>491.8902113426602</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.87379954971594,53.46470511833338,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Too close to building</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.91583046859942</longitude>
+				<latitude>53.51395317204021</latitude>
+				<altitude>0</altitude>
+				<heading>-3.33025829754349</heading>
+				<tilt>30.00111216837166</tilt>
+				<range>247.5840529645372</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.916045076053546,53.51348250617561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Local access road crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.944608187860434</longitude>
+				<latitude>53.53939866154052</latitude>
+				<altitude>0</altitude>
+				<heading>-3.35339980081266</heading>
+				<tilt>30.00246724616611</tilt>
+				<range>549.2677909150398</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.945242207374095,53.53910965785529,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Possible Monument</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.972945595160837</longitude>
+				<latitude>53.5692782338045</latitude>
+				<altitude>0</altitude>
+				<heading>-3.376193804744249</heading>
+				<tilt>30.00246724616608</tilt>
+				<range>549.267790915701</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.974115078243022,53.56825556002774,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Too close to house</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.977702074365371</longitude>
+				<latitude>53.57428448581521</latitude>
+				<altitude>0</altitude>
+				<heading>-3.380020818784331</heading>
+				<tilt>30.0024672461661</tilt>
+				<range>549.2677909138766</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.98008779513335,53.57345314235177,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Possible Monument</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.980925632525855</longitude>
+				<latitude>53.57707465581336</latitude>
+				<altitude>0</altitude>
+				<heading>-3.382614566239693</heading>
+				<tilt>30.00246724616615</tilt>
+				<range>549.2677909165817</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.980996658690264,53.57659339726807,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Too close to farm building</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.995259721657455</longitude>
+				<latitude>53.59320196480155</latitude>
+				<altitude>0</altitude>
+				<heading>-3.394149577470939</heading>
+				<tilt>30.0024672461661</tilt>
+				<range>549.2677909159205</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.996947672242152,53.59323122526558,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Local access road</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.028598860635562</longitude>
+				<latitude>53.61964415629703</latitude>
+				<altitude>0</altitude>
+				<heading>-3.420986317467344</heading>
+				<tilt>30.00246724616562</tilt>
+				<range>549.2677909116694</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.03068937972469,53.61964408376548,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Too close to house</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.071112228764955</longitude>
+				<latitude>53.65978674607769</latitude>
+				<altitude>0</altitude>
+				<heading>-3.455220761720756</heading>
+				<tilt>30.0024672461656</tilt>
+				<range>549.267790912444</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.074012924094708,53.65913076236552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Primary school &lt;100m</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.071112228764955</longitude>
+				<latitude>53.65978674607769</latitude>
+				<altitude>0</altitude>
+				<heading>-3.455220761720756</heading>
+				<tilt>30.0024672461656</tilt>
+				<range>549.267790912444</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.074837833169337,53.65961704019294,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Possible monument</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.071534567052167</longitude>
+				<latitude>53.66181080154327</latitude>
+				<altitude>0</altitude>
+				<heading>-3.455560939864519</heading>
+				<tilt>30.00246724616555</tilt>
+				<range>549.2677909107155</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.073331623158001,53.66131947239877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Too close to farm building</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.072749548714436</longitude>
+				<latitude>53.66408216795589</latitude>
+				<altitude>0</altitude>
+				<heading>-3.456539630630816</heading>
+				<tilt>30.0024672461656</tilt>
+				<range>549.2677909086182</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.074900138996783,53.66380615019175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>05-814 Too close to house</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-8.855862390180166</longitude>
+				<latitude>53.44922843415789</latitude>
+				<altitude>0</altitude>
+				<heading>-30.95447180067552</heading>
+				<tilt>25.9374838566195</tilt>
+				<range>135.398279577741</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin77</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-8.85631404887476,53.44911091889733,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Local access road crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.07539134958278</longitude>
+				<latitude>53.67003407948888</latitude>
+				<altitude>0</altitude>
+				<heading>-3.458667776274822</heading>
+				<tilt>30.00246724616557</tilt>
+				<range>549.2677909099965</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.075076774014265,53.66858772312705,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ruins</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.109221445245595</longitude>
+				<latitude>53.69377715977911</latitude>
+				<altitude>0</altitude>
+				<heading>-3.485925076350904</heading>
+				<tilt>30.00246724616558</tilt>
+				<range>549.2677909176476</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.11082179183563,53.69299634903413,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>L Road Crossing</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.109952106211693</longitude>
+				<latitude>53.69777617406835</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0003505365602229621</heading>
+				<tilt>19.19403443392659</tilt>
+				<range>1145.810141112491</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.113703792659621,53.69630529005038,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Too close to farm building</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.141615975658453</longitude>
+				<latitude>53.72997377196631</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02396456459243681</heading>
+				<tilt>30.00265037784694</tilt>
+				<range>590.0770090359603</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.143060789192536,53.72986464334232,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Crossing tree line too parallel</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.170289539490945</longitude>
+				<latitude>53.7468345732882</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04708423825529986</heading>
+				<tilt>30.00265037784694</tilt>
+				<range>590.077009037333</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.172420093860993,53.74587320244023,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Too close to farm building</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.179386622929583</longitude>
+				<latitude>53.75777513405078</latitude>
+				<altitude>0</altitude>
+				<heading>-0.05442088204315524</heading>
+				<tilt>30.00265037784693</tilt>
+				<range>590.0770090360983</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.180639751552672,53.75731225685504,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Too close to house</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.179386622929583</longitude>
+				<latitude>53.75777513405078</latitude>
+				<altitude>0</altitude>
+				<heading>-0.05442088204315524</heading>
+				<tilt>30.00265037784693</tilt>
+				<range>590.0770090360983</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.180937470037398,53.75814209717971,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Too close to farm buildings</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.17994950447023</longitude>
+				<latitude>53.76024260803821</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0548748303152919</heading>
+				<tilt>30.00265037784694</tilt>
+				<range>590.0770090377168</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.181799309058656,53.76041049311353,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Too close to farm buildings</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.193506267728704</longitude>
+				<latitude>53.77409403547421</latitude>
+				<altitude>0</altitude>
+				<heading>-0.06581037747198235</heading>
+				<tilt>30.00265037784697</tilt>
+				<range>590.0770090356955</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.194929283732844,53.77346524620671,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Too close to buildings</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.203175962810942</longitude>
+				<latitude>53.78207058788695</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07361119415120686</heading>
+				<tilt>30.00265037784694</tilt>
+				<range>590.0770090363952</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.203812814497446,53.78118216515892,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Too close to farm buildings</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.217465109681569</longitude>
+				<latitude>53.79228002249931</latitude>
+				<altitude>0</altitude>
+				<heading>-0.08538208985032018</heading>
+				<tilt>28.26287729888841</tilt>
+				<range>390.4230263014221</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.219040961667522,53.79231716599726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Too close to farm buildings</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-9.226065288382122</longitude>
+				<latitude>53.79948179466913</latitude>
+				<altitude>0</altitude>
+				<heading>-0.09208178586605076</heading>
+				<tilt>29.89162185320613</tilt>
+				<range>329.1691186563331</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.227099917728268,53.79923894386435,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

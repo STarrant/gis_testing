@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>UGC-Cashla_to_OHL_B-Option_2.kml</name>
+	<Style id="Line__OHL_Potential_Start_2_sn_ylw-pushpin1_ffff557f_03">
+		<LineStyle>
+			<color>ff7f55ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="Line__OHL_Potential_Start_2_sn_ylw-pushpin1_ffff557f_033">
+		<LineStyle>
+			<color>ff7f55ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="Line__OHL_Potential_Start_2_sn_ylw-pushpin1_ffff557f_034">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Line__OHL_Potential_Start_2_sn_ylw-pushpin1_ffff557f_03</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Line__OHL_Potential_Start_2_sn_ylw-pushpin1_ffff557f_033</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>UGC-Cashla_to_OHL_B-Option_2</name>
+		<visibility>0</visibility>
+		<LookAt>
+			<longitude>-8.88252694</longitude>
+			<latitude>53.35512109</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>10839</range>
+		</LookAt>
+		<styleUrl>#Line__OHL_Potential_Start_2_sn_ylw-pushpin1_ffff557f_034</styleUrl>
+		<LineString>
+			<coordinates>
+				-8.919178540248842,53.38185236132537,0 -8.918288945303793,53.38162446627856,0 -8.922016221116806,53.37247363285426,0 -8.91777468079067,53.36922891038569,0 -8.916375223235161,53.3681549331394,0 -8.916050157185861,53.36779542801168,0 -8.915412536326549,53.36673992056141,0 -8.914997112750211,53.36599297193642,0 -8.912618997383731,53.36352785024937,0 -8.91229834111957,53.36310162489963,0 -8.911956771516568,53.3628526777287,0 -8.911428840678273,53.36267168349821,0 -8.909426684706638,53.36220025680136,0 -8.90636673,53.3602575,0 -8.90405262,53.35881089000001,0 -8.90297777,53.35666615000001,0 -8.89969273,53.35183741000001,0 -8.89776185,53.34978956,0 -8.894509040000001,53.34799377,0 -8.891854690000001,53.34673942,0 -8.88769827,53.34434004999999,0 -8.88708222,53.34373021,0 -8.88668895,53.34361979000001,0 -8.88634682,53.34379515999999,0 -8.885578110000001,53.34378408,0 -8.88553619,53.3433199,0 -8.88396938,53.34245936,0 -8.882803450000001,53.34186725,0 -8.880837619999999,53.3417359,0 -8.88051284,53.34157569,0 -8.8755764,53.33823287,0 -8.86743748,53.33256852,0 -8.86024418,53.32746821,0 -8.855181010000001,53.32383697000001,0 -8.85334518,53.32232941,0 -8.85254903,53.32110603,0 -8.854474829999999,53.32076248,0 -8.85660418,53.32065465,0 -8.85874143,53.32024669,0 -8.86167285,53.31889838,0 -8.86167644,53.31890577,0 -8.85715691,53.31547461,0 -8.85458214,53.31317996999999,0 -8.85290519,53.30984661,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
