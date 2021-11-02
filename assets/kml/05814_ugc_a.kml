@@ -2,12 +2,10 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>05814_ugc_a.kml</name>
-	<Style id="sn_ylw-pushpin">
-		<BalloonStyle>
-		</BalloonStyle>
+	<Style id="sh_ylw-pushpin4">
 		<LineStyle>
 			<color>ff000000</color>
-			<width>5</width>
+			<width>3</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin">
@@ -17,15 +15,13 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin</styleUrl>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_ylw-pushpin">
-		<BalloonStyle>
-		</BalloonStyle>
+	<Style id="sn_ylw-pushpin">
 		<LineStyle>
 			<color>ff000000</color>
-			<width>7.5</width>
+			<width>3</width>
 		</LineStyle>
 	</Style>
 	<Placemark>

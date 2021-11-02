@@ -2,31 +2,16 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>05814_ugc_i_rev1.kml</name>
-	<Style id="line-F57C00-1000-nodesc-normal01">
-		<BalloonStyle>
-			<text><![CDATA[<h3>$[name]</h3>]]></text>
-		</BalloonStyle>
+	<Style id="sn_ylw-pushpin0">
 		<LineStyle>
 			<color>ff7d6d57</color>
-			<width>5</width>
+			<width>3</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="msn_ylw-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ylw-pushpin">
-		<BalloonStyle>
-		</BalloonStyle>
+	<Style id="sh_ylw-pushpin">
 		<LineStyle>
 			<color>807d6d57</color>
-			<width>5</width>
+			<width>3</width>
 		</LineStyle>
 	</Style>
 	<Style id="line-F57C00-1000-nodesc-highlight00">
@@ -35,23 +20,38 @@
 		</BalloonStyle>
 		<LineStyle>
 			<color>ff7d6d57</color>
-			<width>5</width>
+			<width>3</width>
 		</LineStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin">
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin9">
+		<LineStyle>
+			<color>ff7d6d57</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<LineStyle>
+			<color>807d6d57</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-F57C00-1000-nodesc-normal01">
 		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
 		</BalloonStyle>
 		<LineStyle>
 			<color>ff7d6d57</color>
-			<width>7.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin0">
-		<BalloonStyle>
-		</BalloonStyle>
-		<LineStyle>
-			<color>ff7d6d57</color>
-			<width>5</width>
+			<width>3</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="line-F57C00-1000-nodesc">
@@ -64,30 +64,22 @@
 			<styleUrl>#line-F57C00-1000-nodesc-highlight00</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin0">
+	<StyleMap id="msn_ylw-pushpin6">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_ylw-pushpin</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_ylw-pushpin0">
-		<BalloonStyle>
-		</BalloonStyle>
-		<LineStyle>
-			<color>807d6d57</color>
-			<width>7.5</width>
-		</LineStyle>
-	</Style>
 	<Folder>
 		<name>Option I</name>
 		<open>1</open>
 		<Placemark>
 			<name>Swinford to Belacorrick</name>
-			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -107,7 +99,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Cashla to Athenry Disused Rail</name>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<styleUrl>#msn_ylw-pushpin6</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>

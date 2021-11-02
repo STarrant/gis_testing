@@ -5,10 +5,10 @@
 	<Style id="sh_ylw-pushpin11">
 		<LineStyle>
 			<color>ffff00aa</color>
-			<width>7.5</width>
+			<width>3</width>
 		</LineStyle>
 	</Style>
-	<StyleMap id="msn_ylw-pushpin2">
+	<StyleMap id="msn_ylw-pushpin20">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_ylw-pushpin20</styleUrl>
@@ -21,13 +21,12 @@
 	<Style id="sn_ylw-pushpin20">
 		<LineStyle>
 			<color>ffff00aa</color>
-			<width>5</width>
+			<width>3</width>
 		</LineStyle>
 	</Style>
 	<Placemark>
 		<name>GW - Option 21 - Modified</name>
-		<visibility>0</visibility>
-		<styleUrl>#msn_ylw-pushpin2</styleUrl>
+		<styleUrl>#msn_ylw-pushpin20</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
 			<coordinates>

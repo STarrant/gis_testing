@@ -2,19 +2,16 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>05814_ugc_j.kml</name>
-	<Style id="sn_ylw-pushpin12">
+	<Style id="sn_ylw-pushpin3">
 		<LineStyle>
-			<color>ffffaa55</color>
-			<width>5</width>
+			<color>80ffaa55</color>
+			<width>3</width>
 		</LineStyle>
 	</Style>
-	<Style id="line-F57C00-1000-nodesc-normal0">
-		<BalloonStyle>
-			<text><![CDATA[<h3>$[name]</h3>]]></text>
-		</BalloonStyle>
+	<Style id="sh_ylw-pushpin7">
 		<LineStyle>
-			<color>ffffaa55</color>
-			<width>5</width>
+			<color>80ffaa55</color>
+			<width>3</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin3">
@@ -27,12 +24,6 @@
 			<styleUrl>#sh_ylw-pushpin8</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sh_ylw-pushpin8">
-		<LineStyle>
-			<color>ffffaa55</color>
-			<width>7.5</width>
-		</LineStyle>
-	</Style>
 	<StyleMap id="line-F57C00-1000-nodesc0">
 		<Pair>
 			<key>normal</key>
@@ -43,39 +34,44 @@
 			<styleUrl>#line-F57C00-1000-nodesc-highlight0</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_ylw-pushpin">
-		<BalloonStyle>
-		</BalloonStyle>
-		<LineStyle>
-			<color>80ffaa55</color>
-			<width>5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin">
-		<BalloonStyle>
-		</BalloonStyle>
-		<LineStyle>
-			<color>80ffaa55</color>
-			<width>7.5</width>
-		</LineStyle>
-	</Style>
-	<StyleMap id="msn_ylw-pushpin">
+	<StyleMap id="msn_ylw-pushpin11">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin</styleUrl>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin</styleUrl>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
 		</Pair>
 	</StyleMap>
+	<Style id="line-F57C00-1000-nodesc-normal0">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
 	<Style id="line-F57C00-1000-nodesc-highlight0">
 		<BalloonStyle>
 			<text><![CDATA[<h3>$[name]</h3>]]></text>
 		</BalloonStyle>
 		<LineStyle>
 			<color>ffffaa55</color>
-			<width>5</width>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin12">
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin8">
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>3</width>
 		</LineStyle>
 	</Style>
 	<Folder>
@@ -93,7 +89,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Cashla to Athenry Disused Rail</name>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<styleUrl>#msn_ylw-pushpin11</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
