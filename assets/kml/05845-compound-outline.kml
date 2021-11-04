@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Placemark>
+	<name>Polyline [1891E]:0</name>
+	<Style>
+		<LineStyle>
+			<color>ff0000fe</color>
+			<width>1</width>
+		</LineStyle>
+	</Style>
+	<MultiGeometry>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9854417687774,53.67516128433271,0 -7.9854440971082,53.6751593875379,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9854440971092,53.67515938753691,0 -7.985365697362399,53.6751254589014,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9853656973634,53.6751254589004,0 -7.9853611965805,53.67512641553531,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9853611965815,53.6751264155343,0 -7.9854417687764,53.6751612843337,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9853611965815,53.6751264155343,0 -7.985365697362399,53.6751254589014,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9853656973634,53.6751254589004,0 -7.9854476127114,53.67493768565431,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9854476127124,53.6749376856533,0 -7.9854437074189,53.6749372773043,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.985443707419899,53.6749372773033,0 -7.9853611965805,53.67512641553531,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.985443707419899,53.6749372773033,0 -7.9854476127114,53.67493768565431,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9854476127124,53.6749376856533,0 -7.9854712216265,53.6747908369465,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9854712216275,53.6747908369455,0 -7.9854673706382,53.6747900909043,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.985467370639201,53.6747900909033,0 -7.9854437074189,53.6749372773043,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.985467370639201,53.6747900909033,0 -7.9854712216265,53.6747908369465,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9854712216275,53.6747908369455,0 -7.9857363632196,53.6745255479751,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9857363632206,53.6745255479741,0 -7.9857350132297,53.6745222995538,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9857350132307,53.6745222995528,0 -7.9854673706382,53.6747900909043,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9857350132307,53.6745222995528,0 -7.9857363632196,53.6745255479751,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9857363632206,53.6745255479741,0 -7.985962579674401,53.6746081517736,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9859625796754,53.6746081517726,0 -7.985967828013,53.674607312756,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.985967828013999,53.67460731275499,0 -7.9857350132297,53.6745222995538,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.985967828013999,53.67460731275499,0 -7.985962579674401,53.6746081517736,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9859625796754,53.6746081517726,0 -7.9859227703315,53.6746521023736,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9859227703325,53.6746521023726,0 -7.985926563925699,53.6746528694405,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9859265639267,53.6746528694395,0 -7.985967828013,53.674607312756,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9859265639267,53.6746528694395,0 -7.9859227703315,53.6746521023736,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9859227703325,53.6746521023726,0 -7.985907671335299,53.6747066189264,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9859076713363,53.67470661892541,0 -7.985911442233,53.6747074679588,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.985911442234,53.67470746795779,0 -7.985926563925699,53.6746528694405,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.985911442234,53.67470746795779,0 -7.985907671335299,53.6747066189264,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9859076713363,53.67470661892541,0 -7.985684348463999,53.6749172351199,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.985684348465,53.6749172351189,0 -7.9856877199441,53.674918460862,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9856877199451,53.67491846086099,0 -7.985911442233,53.6747074679588,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9856877199451,53.67491846086099,0 -7.985684348463999,53.6749172351199,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.985684348465,53.6749172351189,0 -7.985441234575801,53.67515973564981,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9854412345768,53.6751597356488,0 -7.9854446313089,53.67516093622179,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+				-7.9854446313099,53.6751609362208,0 -7.9856877199441,53.674918460862,0 
+			</coordinates>
+		</LineString>
+	</MultiGeometry>
+</Placemark>
+</kml>
