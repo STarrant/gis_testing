@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>05764-jb.kml</name>
+	<Style id="sn_square">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_square">
+		<IconStyle>
+			<scale>0.84</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_square">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_square</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_square0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_square0">
+		<IconStyle>
+			<scale>0.84</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_square1">
+		<IconStyle>
+			<scale>0.84</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_square0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_square1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_square</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_square0">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_square1">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_square1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_square0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_square1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Joint Bays</name>
+		<Placemark>
+			<name>Joint Bay 1</name>
+			<styleUrl>#msn_square</styleUrl>
+			<Point>
+				<coordinates>-6.870415999999999,53.674289,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Joint Bay 2</name>
+			<styleUrl>#msn_square0</styleUrl>
+			<Point>
+				<coordinates>-6.872037,53.67839099999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Joint Bay 3</name>
+			<styleUrl>#msn_square0</styleUrl>
+			<Point>
+				<coordinates>-6.871445,53.683695,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Joint Bay 4</name>
+			<styleUrl>#msn_square0</styleUrl>
+			<Point>
+				<coordinates>-6.869181,53.68770200000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Joint Bay 5</name>
+			<styleUrl>#msn_square1</styleUrl>
+			<Point>
+				<coordinates>-6.866954000000001,53.690906,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

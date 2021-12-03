@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>05764-notices.kml</name>
+	<Style id="sn_info-i">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/info-i.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_info-i">
+		<IconStyle>
+			<scale>0.84</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/info-i.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_info-i">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_info-i</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_info-i</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Site Notices</name>
+		<open>1</open>
+		<Placemark>
+			<name>Site Notice 1</name>
+			<description>From David Moore 01/12/2021</description>
+			<styleUrl>#msn_info-i</styleUrl>
+			<Point>
+				<coordinates>-6.862443,53.672508,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Site Notice 2</name>
+			<description>From David Moore 01/12/2021</description>
+			<styleUrl>#msn_info-i</styleUrl>
+			<Point>
+				<coordinates>-6.873339999999999,53.67501300000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Site Notice 3</name>
+			<description>From David Moore 01/12/2021</description>
+			<styleUrl>#msn_info-i</styleUrl>
+			<Point>
+				<coordinates>-6.874074,53.68225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Site Notice 4</name>
+			<description>From David Moore 01/12/2021</description>
+			<styleUrl>#msn_info-i</styleUrl>
+			<Point>
+				<coordinates>-6.865958,53.68648,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Site Notice 5</name>
+			<description>From David Moore 01/12/2021</description>
+			<styleUrl>#msn_info-i</styleUrl>
+			<Point>
+				<coordinates>-6.872,53.68935499999999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
