@@ -30,7 +30,6 @@
 	</StyleMap>
 	<Placemark>
 		<name>Diversion around L6835</name>
-		<visibility>0</visibility>
 		<styleUrl>#msn_ylw-pushpin</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
