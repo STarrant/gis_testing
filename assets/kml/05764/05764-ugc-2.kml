@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>05764-ugc-2.kml</name>
+	<StyleMap id="m_ylw-pushpin800">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed01">
+		<LineStyle>
+			<color>80ff00aa</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed2">
+		<LineStyle>
+			<color>80ff00aa</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>05764-ugc-2</name>
+		<open>1</open>
+		<styleUrl>#m_ylw-pushpin800</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-6.874189396776701,53.68238466464793,0 -6.87352339260282,53.68295148154225,0 -6.872255661348757,53.68364459889769,0 -6.870359033378421,53.6837625535192,0 -6.869704271951413,53.68376255341375,0 -6.869651891367473,53.68376255341447,0 -6.868703192433232,53.68393606326771,0 -6.867630925833331,53.68458149819439,0 -6.867397123126197,53.68480327133905,0 -6.866416431713649,53.68593117441522,0 -6.865954639521013,53.68643743771575,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
